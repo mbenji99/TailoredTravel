@@ -1,0 +1,554 @@
+user_id,item_id,interaction,destination,accommodation_type,price,age,gender,nationality
+John Smith,"London, UK_Hotel",1200600.0,"London, UK",Hotel,1200.0,35.0,Male,American
+John Smith,"London, UK_Hotel",1200600.0,"London, UK",Hotel,1200.0,45.0,Male,American
+John Smith,"London, UK_Hotel",1200600.0,"London, UK",Hotel,1200.0,46.0,Male,British
+John Smith,"London, UK_Hotel",1200600.0,"London, UK",Hotel,1200.0,35.0,Male,USA
+John Smith,"London, UK_Hotel",1200600.0,"London, UK",Hotel,1000.0,35.0,Male,American
+John Smith,"London, UK_Hotel",1200600.0,"London, UK",Hotel,1000.0,45.0,Male,American
+John Smith,"London, UK_Hotel",1200600.0,"London, UK",Hotel,1000.0,46.0,Male,British
+John Smith,"London, UK_Hotel",1200600.0,"London, UK",Hotel,1000.0,35.0,Male,USA
+Jane Doe,"Phuket, Thailand_Resort",800500.0,"Phuket, Thailand",Resort,800.0,28.0,Female,Canadian
+David Lee,"Bali, Indonesia_Villa",1000700.0,"Bali, Indonesia",Villa,1000.0,45.0,Male,Korean
+David Lee,"Bali, Indonesia_Villa",1000700.0,"Bali, Indonesia",Villa,1000.0,43.0,Male,Australian
+David Lee,"Bali, Indonesia_Villa",1000700.0,"Bali, Indonesia",Villa,1000.0,38.0,Male,Australian
+David Lee,"Bali, Indonesia_Villa",1000700.0,"Bali, Indonesia",Villa,1000.0,45.0,Male,Australian
+David Lee,"Bali, Indonesia_Villa",1000700.0,"Bali, Indonesia",Villa,1000.0,45.0,Male,South Korea
+David Lee,"Bali, Indonesia_Villa",1000700.0,"Bali, Indonesia",Villa,1000.0,38.0,Male,Korean
+Sarah Johnson,"New York, USA_Hotel",20001000.0,"New York, USA",Hotel,2000.0,29.0,Female,British
+Sarah Johnson,"New York, USA_Hotel",20001000.0,"New York, USA",Hotel,2000.0,30.0,Female,American
+Sarah Johnson,"New York, USA_Hotel",20001000.0,"New York, USA",Hotel,1400.0,29.0,Female,British
+Sarah Johnson,"New York, USA_Hotel",20001000.0,"New York, USA",Hotel,1400.0,30.0,Female,American
+Sarah Johnson,"New York, USA_Hotel",20001000.0,"New York, USA",Hotel,1500.0,29.0,Female,British
+Sarah Johnson,"New York, USA_Hotel",20001000.0,"New York, USA",Hotel,1500.0,30.0,Female,American
+Kim Nguyen,"Tokyo, Japan_Airbnb",700200.0,"Tokyo, Japan",Airbnb,700.0,26.0,Female,Vietnamese
+Kim Nguyen,"Tokyo, Japan_Airbnb",700200.0,"Tokyo, Japan",Airbnb,7000.0,26.0,Female,Vietnamese
+Michael Brown,"Paris, France_Hotel",1500800.0,"Paris, France",Hotel,1500.0,42.0,Male,American
+Michael Brown,"Paris, France_Hotel",1500800.0,"Paris, France",Hotel,1400.0,42.0,Male,American
+Michael Brown,"Paris, France_Hotel",1500800.0,"Paris, France",Hotel,1200.0,42.0,Male,American
+Michael Brown,"Paris, France_Hotel",1500800.0,"Paris, France",Hotel,5000.0,42.0,Male,American
+Emily Davis,"Sydney, Australia_Hotel",5001200.0,"Sydney, Australia",Hotel,500.0,33.0,Female,Australian
+Emily Davis,"Sydney, Australia_Hotel",5001200.0,"Sydney, Australia",Hotel,500.0,31.0,Female,American
+Emily Davis,"Sydney, Australia_Hotel",5001200.0,"Sydney, Australia",Hotel,500.0,27.0,Female,American
+Emily Davis,"Sydney, Australia_Hotel",5001200.0,"Sydney, Australia",Hotel,6000.0,33.0,Female,Australian
+Emily Davis,"Sydney, Australia_Hotel",5001200.0,"Sydney, Australia",Hotel,6000.0,31.0,Female,American
+Emily Davis,"Sydney, Australia_Hotel",5001200.0,"Sydney, Australia",Hotel,6000.0,27.0,Female,American
+Lucas Santos,"Rio de Janeiro, Brazil_Airbnb",900600.0,"Rio de Janeiro, Brazil",Airbnb,900.0,25.0,Male,Brazilian
+Lucas Santos,"Rio de Janeiro, Brazil_Airbnb",900600.0,"Rio de Janeiro, Brazil",Airbnb,800.0,25.0,Male,Brazilian
+Laura Janssen,"Amsterdam, Netherlands_Hotel",1200200.0,"Amsterdam, Netherlands",Hotel,1200.0,31.0,Female,Dutch
+Laura Janssen,"Amsterdam, Netherlands_Hotel",1200200.0,"Amsterdam, Netherlands",Hotel,1100.0,31.0,Female,Dutch
+Mohammed Ali,"Dubai, United Arab Emirates_Resort",2500800.0,"Dubai, United Arab Emirates",Resort,2500.0,39.0,Male,Emirati
+Ana Hernandez,"Cancun, Mexico_Hotel",1000500.0,"Cancun, Mexico",Hotel,1000.0,27.0,Female,Mexican
+Ana Hernandez,"Cancun, Mexico_Hotel",1000500.0,"Cancun, Mexico",Hotel,1300.0,27.0,Female,Mexican
+Carlos Garcia,"Barcelona, Spain_Airbnb",800100.0,"Barcelona, Spain",Airbnb,800.0,36.0,Male,Spanish
+Carlos Garcia,"Barcelona, Spain_Airbnb",800100.0,"Barcelona, Spain",Airbnb,700.0,36.0,Male,Spanish
+Carlos Garcia,"Barcelona, Spain_Airbnb",800100.0,"Barcelona, Spain",Airbnb,6000.0,36.0,Male,Spanish
+Lily Wong,"Honolulu, Hawaii_Resort",30001200.0,"Honolulu, Hawaii",Resort,3000.0,29.0,Female,Chinese
+Hans Mueller,"Berlin, Germany_Hotel",1400700.0,"Berlin, Germany",Hotel,1400.0,48.0,Male,German
+Fatima Khouri,"Marrakech, Morocco_Riad",600400.0,"Marrakech, Morocco",Riad,600.0,26.0,Female,Moroccan
+James MacKenzie,"Edinburgh, Scotland_Hotel",900150.0,"Edinburgh, Scotland",Hotel,900.0,32.0,Male,Scottish
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,900.0,29.0,Female,British
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,900.0,30.0,Female,American
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,1400.0,29.0,Female,British
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,1400.0,30.0,Female,American
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,1200.0,29.0,Female,British
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,1200.0,30.0,Female,American
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,1100.0,29.0,Female,British
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,1100.0,30.0,Female,American
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,800.0,29.0,Female,British
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,800.0,30.0,Female,American
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,500.0,29.0,Female,British
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,500.0,30.0,Female,American
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,1000.0,29.0,Female,British
+Sarah Johnson,Paris_Hotel,900400.0,Paris,Hotel,1000.0,30.0,Female,American
+Michael Chang,Bali_Resort,1500700.0,Bali,Resort,1500.0,28.0,Male,Chinese
+Michael Chang,Bali_Resort,1500700.0,Bali,Resort,2200.0,28.0,Male,Chinese
+Michael Chang,Bali_Resort,1500700.0,Bali,Resort,1800.0,28.0,Male,Chinese
+Michael Chang,Bali_Resort,1500700.0,Bali,Resort,1200.0,28.0,Male,Chinese
+Olivia Rodriguez,London_Hotel,1200150.0,London,Hotel,1200.0,35.0,Female,British
+Olivia Rodriguez,London_Hotel,1200150.0,London,Hotel,600.0,35.0,Female,British
+Olivia Rodriguez,London_Hotel,1200150.0,London,Hotel,900.0,35.0,Female,British
+Kenji Nakamura,Tokyo_Hotel,1200800.0,Tokyo,Hotel,1200.0,45.0,Male,Japanese
+Kenji Nakamura,Tokyo_Hotel,1200800.0,Tokyo,Hotel,1200.0,28.0,Male,Japanese
+Emily Lee,New York_Airbnb,600100.0,New York,Airbnb,600.0,27.0,Female,American
+Emily Lee,New York_Airbnb,600100.0,New York,Airbnb,700.0,27.0,Female,American
+Emily Lee,New York_Airbnb,600100.0,New York,Airbnb,800.0,27.0,Female,American
+James Wilson,Sydney_Hotel,1000600.0,Sydney,Hotel,1000.0,32.0,Male,Australian
+James Wilson,Sydney_Hotel,1000600.0,Sydney,Hotel,1000.0,29.0,Male,British
+James Wilson,Sydney_Hotel,1000600.0,Sydney,Hotel,1500.0,32.0,Male,Australian
+James Wilson,Sydney_Hotel,1000600.0,Sydney,Hotel,1500.0,29.0,Male,British
+James Wilson,Sydney_Hotel,1000600.0,Sydney,Hotel,900.0,32.0,Male,Australian
+James Wilson,Sydney_Hotel,1000600.0,Sydney,Hotel,900.0,29.0,Male,British
+Sofia Russo,Rome_Airbnb,70080.0,Rome,Airbnb,700.0,29.0,Female,Italian
+Raj Patel,Bangkok_Hostel,400500.0,Bangkok,Hostel,400.0,40.0,Male,Indian
+Raj Patel,Bangkok_Hostel,400500.0,Bangkok,Hostel,300.0,40.0,Male,Indian
+Lily Nguyen,Paris_Hotel,1400100.0,Paris,Hotel,900.0,24.0,Female,Vietnamese
+Lily Nguyen,Paris_Hotel,1400100.0,Paris,Hotel,1400.0,24.0,Female,Vietnamese
+Lily Nguyen,Paris_Hotel,1400100.0,Paris,Hotel,1200.0,24.0,Female,Vietnamese
+Lily Nguyen,Paris_Hotel,1400100.0,Paris,Hotel,1100.0,24.0,Female,Vietnamese
+Lily Nguyen,Paris_Hotel,1400100.0,Paris,Hotel,800.0,24.0,Female,Vietnamese
+Lily Nguyen,Paris_Hotel,1400100.0,Paris,Hotel,500.0,24.0,Female,Vietnamese
+Lily Nguyen,Paris_Hotel,1400100.0,Paris,Hotel,1000.0,24.0,Female,Vietnamese
+David Kim,Hawaii_Resort,2000800.0,Hawaii,Resort,2000.0,34.0,Male,Korean
+David Kim,Hawaii_Resort,2000800.0,Hawaii,Resort,2000.0,25.0,Male,American
+David Kim,Hawaii_Resort,2000800.0,Hawaii,Resort,2000.0,26.0,Male,Canada
+David Kim,Hawaii_Resort,2000800.0,Hawaii,Resort,2000.0,42.0,Male,Korean
+Maria Garcia,Barcelona_Hotel,1100150.0,Barcelona,Hotel,1100.0,31.0,Female,Spanish
+Maria Garcia,Barcelona_Hotel,1100150.0,Barcelona,Hotel,1100.0,42.0,Female,Spanish
+Maria Garcia,Barcelona_Hotel,1100150.0,Barcelona,Hotel,1100.0,27.0,Female,Spain
+Alice Smith,Japan_Hotel,800500.0,Japan,Hotel,800.0,30.0,Female,American
+Alice Smith,Japan_Hotel,800500.0,Japan,Hotel,800.0,32.0,Female,American
+Bob Johnson,Thailand_Hostel,200150.0,Thailand,Hostel,200.0,45.0,Male,Canadian
+Bob Johnson,Thailand_Hostel,200150.0,Thailand,Hostel,200.0,47.0,Male,Canadian
+Charlie Lee,France_Airbnb,600300.0,France,Airbnb,600.0,25.0,Male,Korean
+Emma Davis,Australia_Hotel,1000500.0,Australia,Hotel,1000.0,28.0,Female,British
+Olivia Martin,Brazil_Hostel,15050.0,Brazil,Hostel,150.0,33.0,Female,Australian
+Harry Wilson,Greece_Airbnb,400600.0,Greece,Airbnb,400.0,20.0,Male,American
+Sophia Lee,Egypt_Hotel,700100.0,Egypt,Hotel,700.0,37.0,Female,Canadian
+James Brown,Mexico_Airbnb,500800.0,Mexico,Airbnb,500.0,42.0,Male,British
+Mia Johnson,Italy_Hostel,180120.0,Italy,Hostel,180.0,31.0,Female,American
+Mia Johnson,Italy_Hostel,180120.0,Italy,Hostel,180.0,25.0,Female,American
+William Davis,Spain_Hotel,900400.0,Spain,Hotel,900.0,27.0,Male,Korean
+Amelia Brown,Canada_Airbnb,35075.0,Canada,Airbnb,350.0,38.0,Female,Australian
+Mia Johnson,"Paris, France_Hotel",1400600.0,"Paris, France",Hotel,1500.0,31.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600.0,"Paris, France",Hotel,1500.0,25.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600.0,"Paris, France",Hotel,1400.0,31.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600.0,"Paris, France",Hotel,1400.0,25.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600.0,"Paris, France",Hotel,1200.0,31.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600.0,"Paris, France",Hotel,1200.0,25.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600.0,"Paris, France",Hotel,5000.0,31.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600.0,"Paris, France",Hotel,5000.0,25.0,Female,American
+Adam Lee,"Sydney, Australia_Airbnb",800150.0,"Sydney, Australia",Airbnb,800.0,33.0,Male,Canadian
+Sarah Wong,"Tokyo, Japan_Hostel",500900.0,"Tokyo, Japan",Hostel,500.0,28.0,Female,Chinese
+John Smith,"Cancun, Mexico_Resort",2200800.0,"Cancun, Mexico",Resort,2200.0,35.0,Male,American
+John Smith,"Cancun, Mexico_Resort",2200800.0,"Cancun, Mexico",Resort,2200.0,45.0,Male,American
+John Smith,"Cancun, Mexico_Resort",2200800.0,"Cancun, Mexico",Resort,2200.0,46.0,Male,British
+John Smith,"Cancun, Mexico_Resort",2200800.0,"Cancun, Mexico",Resort,2200.0,35.0,Male,USA
+John Smith,"Cancun, Mexico_Resort",2200800.0,"Cancun, Mexico",Resort,800.0,35.0,Male,American
+John Smith,"Cancun, Mexico_Resort",2200800.0,"Cancun, Mexico",Resort,800.0,45.0,Male,American
+John Smith,"Cancun, Mexico_Resort",2200800.0,"Cancun, Mexico",Resort,800.0,46.0,Male,British
+John Smith,"Cancun, Mexico_Resort",2200800.0,"Cancun, Mexico",Resort,800.0,35.0,Male,USA
+Maria Silva,"Rio de Janeiro, Brazil_Hotel",1200700.0,"Rio de Janeiro, Brazil",Hotel,1200.0,30.0,Female,Brazilian
+Peter Brown,"London, UK_Airbnb",900100.0,"London, UK",Airbnb,900.0,55.0,Male,British
+Emma Garcia,"Barcelona, Spain_Hostel",600600.0,"Barcelona, Spain",Hostel,600.0,27.0,Female,Spanish
+Michael Davis,"New York City, USA_Hotel",1500500.0,"New York City, USA",Hotel,1500.0,41.0,Male,American
+Michael Davis,"New York City, USA_Hotel",1500500.0,"New York City, USA",Hotel,8000.0,41.0,Male,American
+Nina Patel,"Bangkok, Thailand_Airbnb",50050.0,"Bangkok, Thailand",Airbnb,500.0,29.0,Female,Indian
+Kevin Kim,"Vancouver, Canada_Hostel",400150.0,"Vancouver, Canada",Hostel,400.0,24.0,Male,Korean
+Laura van den Berg,"Amsterdam, Netherlands_Hotel",1100700.0,"Amsterdam, Netherlands",Hotel,1200.0,31.0,Female,Dutch
+Laura van den Berg,"Amsterdam, Netherlands_Hotel",1100700.0,"Amsterdam, Netherlands",Hotel,1100.0,31.0,Female,Dutch
+Jennifer Nguyen,"Paris, France_Hotel",1200300.0,"Paris, France",Hotel,1500.0,31.0,Female,Canadian
+Jennifer Nguyen,"Paris, France_Hotel",1200300.0,"Paris, France",Hotel,1400.0,31.0,Female,Canadian
+Jennifer Nguyen,"Paris, France_Hotel",1200300.0,"Paris, France",Hotel,1200.0,31.0,Female,Canadian
+Jennifer Nguyen,"Paris, France_Hotel",1200300.0,"Paris, France",Hotel,5000.0,31.0,Female,Canadian
+David Kim,"Tokyo, Japan_Hostel",500100.0,"Tokyo, Japan",Hostel,500.0,34.0,Male,Korean
+David Kim,"Tokyo, Japan_Hostel",500100.0,"Tokyo, Japan",Hostel,500.0,25.0,Male,American
+David Kim,"Tokyo, Japan_Hostel",500100.0,"Tokyo, Japan",Hostel,500.0,26.0,Male,Canada
+David Kim,"Tokyo, Japan_Hostel",500100.0,"Tokyo, Japan",Hostel,500.0,42.0,Male,Korean
+Rachel Lee,"Sydney, AUS_Airbnb",900200.0,"Sydney, AUS",Airbnb,900.0,27.0,Female,South Korean
+Jessica Wong,"New York, USA_Hotel",1400800.0,"New York, USA",Hotel,2000.0,28.0,Female,Canadian
+Jessica Wong,"New York, USA_Hotel",1400800.0,"New York, USA",Hotel,1400.0,28.0,Female,Canadian
+Jessica Wong,"New York, USA_Hotel",1400800.0,"New York, USA",Hotel,1500.0,28.0,Female,Canadian
+Felipe Almeida,"Rio de Janeiro, Brazil_Airbnb",800150.0,"Rio de Janeiro, Brazil",Airbnb,900.0,30.0,Male,Brazilian
+Felipe Almeida,"Rio de Janeiro, Brazil_Airbnb",800150.0,"Rio de Janeiro, Brazil",Airbnb,800.0,30.0,Male,Brazilian
+Nisa Patel,"Bangkok, Thailand_Hostel",40050.0,"Bangkok, Thailand",Hostel,400.0,23.0,Female,Indian
+Nisa Patel,"Bangkok, Thailand_Hostel",40050.0,"Bangkok, Thailand",Hostel,2000.0,23.0,Female,Indian
+Ben Smith,"London, UK_Hotel",1000200.0,"London, UK",Hotel,1200.0,35.0,Male,British
+Ben Smith,"London, UK_Hotel",1000200.0,"London, UK",Hotel,1000.0,35.0,Male,British
+Laura Gomez,"Barcelona, Spain_Airbnb",700250.0,"Barcelona, Spain",Airbnb,800.0,29.0,Female,Spanish
+Laura Gomez,"Barcelona, Spain_Airbnb",700250.0,"Barcelona, Spain",Airbnb,700.0,29.0,Female,Spanish
+Laura Gomez,"Barcelona, Spain_Airbnb",700250.0,"Barcelona, Spain",Airbnb,6000.0,29.0,Female,Spanish
+Park Min Woo,"Seoul, South Korea_Hostel",50020.0,"Seoul, South Korea",Hostel,500.0,27.0,Male,South Korean
+Michael Chen,"Los Angeles, USA_Hotel",1200300.0,"Los Angeles, USA",Hotel,1200.0,26.0,Male,Chinese
+Sofia Rossi,"Rome, Italy_Airbnb",800100.0,"Rome, Italy",Airbnb,800.0,33.0,Female,Italian
+Sofia Rossi,"Rome, Italy_Airbnb",800100.0,"Rome, Italy",Airbnb,4000.0,33.0,Female,Italian
+Rachel Sanders,Paris_Hotel,1200800.0,Paris,Hotel,900.0,35.0,Female,American
+Rachel Sanders,Paris_Hotel,1200800.0,Paris,Hotel,1400.0,35.0,Female,American
+Rachel Sanders,Paris_Hotel,1200800.0,Paris,Hotel,1200.0,35.0,Female,American
+Rachel Sanders,Paris_Hotel,1200800.0,Paris,Hotel,1100.0,35.0,Female,American
+Rachel Sanders,Paris_Hotel,1200800.0,Paris,Hotel,800.0,35.0,Female,American
+Rachel Sanders,Paris_Hotel,1200800.0,Paris,Hotel,500.0,35.0,Female,American
+Rachel Sanders,Paris_Hotel,1200800.0,Paris,Hotel,1000.0,35.0,Female,American
+Kenji Nakamura,Tokyo_Hostel,400300.0,Tokyo,Hostel,400.0,45.0,Male,Japanese
+Kenji Nakamura,Tokyo_Hostel,400300.0,Tokyo,Hostel,400.0,28.0,Male,Japanese
+Emily Watson,Cape Town_Vacation rental,800200.0,Cape Town,Vacation rental,800.0,29.0,Female,British
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,1000.0,45.0,Male,Korean
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,1000.0,43.0,Male,Australian
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,1000.0,38.0,Male,Australian
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,1000.0,45.0,Male,Australian
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,1000.0,45.0,Male,South Korea
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,1000.0,38.0,Male,Korean
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,1500.0,45.0,Male,Korean
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,1500.0,43.0,Male,Australian
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,1500.0,38.0,Male,Australian
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,1500.0,45.0,Male,Australian
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,1500.0,45.0,Male,South Korea
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,1500.0,38.0,Male,Korean
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,900.0,45.0,Male,Korean
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,900.0,43.0,Male,Australian
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,900.0,38.0,Male,Australian
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,900.0,45.0,Male,Australian
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,900.0,45.0,Male,South Korea
+David Lee,Sydney_Hotel,15001200.0,Sydney,Hotel,900.0,38.0,Male,Korean
+Ana Rodriguez,Barcelona_Vacation rental,900700.0,Barcelona,Vacation rental,900.0,31.0,Female,Spanish
+Tom Wilson,Bali_Resort,22001000.0,Bali,Resort,1500.0,27.0,Male,American
+Tom Wilson,Bali_Resort,22001000.0,Bali,Resort,2200.0,27.0,Male,American
+Tom Wilson,Bali_Resort,22001000.0,Bali,Resort,1800.0,27.0,Male,American
+Tom Wilson,Bali_Resort,22001000.0,Bali,Resort,1200.0,27.0,Male,American
+Olivia Green,Paris_Hotel,1100200.0,Paris,Hotel,900.0,39.0,Female,French
+Olivia Green,Paris_Hotel,1100200.0,Paris,Hotel,1400.0,39.0,Female,French
+Olivia Green,Paris_Hotel,1100200.0,Paris,Hotel,1200.0,39.0,Female,French
+Olivia Green,Paris_Hotel,1100200.0,Paris,Hotel,1100.0,39.0,Female,French
+Olivia Green,Paris_Hotel,1100200.0,Paris,Hotel,800.0,39.0,Female,French
+Olivia Green,Paris_Hotel,1100200.0,Paris,Hotel,500.0,39.0,Female,French
+Olivia Green,Paris_Hotel,1100200.0,Paris,Hotel,1000.0,39.0,Female,French
+James Chen,New York_Vacation rental,1000800.0,New York,Vacation rental,1000.0,25.0,Male,American
+Lila Patel,Bangkok_Hostel,300700.0,Bangkok,Hostel,400.0,33.0,Female,Indian
+Lila Patel,Bangkok_Hostel,300700.0,Bangkok,Hostel,300.0,33.0,Female,Indian
+Marco Rossi,Rome_Hotel,1300100.0,Rome,Hotel,1300.0,41.0,Male,Italian
+Marco Rossi,Rome_Hotel,1300100.0,Rome,Hotel,700.0,41.0,Male,Italian
+Marco Rossi,Rome_Hotel,1300100.0,Rome,Hotel,1100.0,41.0,Male,Italian
+Sarah Brown,Bali_Resort,18001000.0,Bali,Resort,1500.0,37.0,Female,British
+Sarah Brown,Bali_Resort,18001000.0,Bali,Resort,1500.0,37.0,Female,UK
+Sarah Brown,Bali_Resort,18001000.0,Bali,Resort,2200.0,37.0,Female,British
+Sarah Brown,Bali_Resort,18001000.0,Bali,Resort,2200.0,37.0,Female,UK
+Sarah Brown,Bali_Resort,18001000.0,Bali,Resort,1800.0,37.0,Female,British
+Sarah Brown,Bali_Resort,18001000.0,Bali,Resort,1800.0,37.0,Female,UK
+Sarah Brown,Bali_Resort,18001000.0,Bali,Resort,1200.0,37.0,Female,British
+Sarah Brown,Bali_Resort,18001000.0,Bali,Resort,1200.0,37.0,Female,UK
+Sarah Lee,"Bali, Indonesia_Resort",500800.0,"Bali, Indonesia",Resort,500.0,35.0,Female,South Korean
+Sarah Lee,"Bali, Indonesia_Resort",500800.0,"Bali, Indonesia",Resort,500.0,28.0,Female,Korean
+Sarah Lee,"Bali, Indonesia_Resort",500800.0,"Bali, Indonesia",Resort,500.0,28.0,Female,South Korea
+Sarah Lee,"Bali, Indonesia_Resort",500800.0,"Bali, Indonesia",Resort,500.0,31.0,Female,Australian
+Sarah Lee,"Bali, Indonesia_Resort",500800.0,"Bali, Indonesia",Resort,600.0,35.0,Female,South Korean
+Sarah Lee,"Bali, Indonesia_Resort",500800.0,"Bali, Indonesia",Resort,600.0,28.0,Female,Korean
+Sarah Lee,"Bali, Indonesia_Resort",500800.0,"Bali, Indonesia",Resort,600.0,28.0,Female,South Korea
+Sarah Lee,"Bali, Indonesia_Resort",500800.0,"Bali, Indonesia",Resort,600.0,31.0,Female,Australian
+Alex Kim,"Tokyo, Japan_Hotel",1000200.0,"Tokyo, Japan",Hotel,1000.0,29.0,Male,American
+Alex Kim,"Tokyo, Japan_Hotel",1000200.0,"Tokyo, Japan",Hotel,1200.0,29.0,Male,American
+Maria Hernandez,"Cancun, Mexico_Resort",800500.0,"Cancun, Mexico",Resort,2200.0,42.0,Female,Mexican
+Maria Hernandez,"Cancun, Mexico_Resort",800500.0,"Cancun, Mexico",Resort,800.0,42.0,Female,Mexican
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,1500.0,35.0,Male,American
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,1500.0,45.0,Male,American
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,1500.0,46.0,Male,British
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,1500.0,35.0,Male,USA
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,1400.0,35.0,Male,American
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,1400.0,45.0,Male,American
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,1400.0,46.0,Male,British
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,1400.0,35.0,Male,USA
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,1200.0,35.0,Male,American
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,1200.0,45.0,Male,American
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,1200.0,46.0,Male,British
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,1200.0,35.0,Male,USA
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,5000.0,35.0,Male,American
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,5000.0,45.0,Male,American
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,5000.0,46.0,Male,British
+John Smith,"Paris, France_Hotel",1200700.0,"Paris, France",Hotel,5000.0,35.0,Male,USA
+Mark Johnson,"Cape Town, SA_Guesthouse",400300.0,"Cape Town, SA",Guesthouse,400.0,31.0,Male,South African
+Amanda Chen,"Bali, Indonesia_Resort",600700.0,"Bali, Indonesia",Resort,500.0,25.0,Female,Taiwanese
+Amanda Chen,"Bali, Indonesia_Resort",600700.0,"Bali, Indonesia",Resort,600.0,25.0,Female,Taiwanese
+David Lee,"Sydney, Aus_Hotel",900600.0,"Sydney, Aus",Hotel,900.0,45.0,Male,Korean
+David Lee,"Sydney, Aus_Hotel",900600.0,"Sydney, Aus",Hotel,900.0,43.0,Male,Australian
+David Lee,"Sydney, Aus_Hotel",900600.0,"Sydney, Aus",Hotel,900.0,38.0,Male,Australian
+David Lee,"Sydney, Aus_Hotel",900600.0,"Sydney, Aus",Hotel,900.0,45.0,Male,Australian
+David Lee,"Sydney, Aus_Hotel",900600.0,"Sydney, Aus",Hotel,900.0,45.0,Male,South Korea
+David Lee,"Sydney, Aus_Hotel",900600.0,"Sydney, Aus",Hotel,900.0,38.0,Male,Korean
+Nana Kwon,"Bangkok, Thai_Hotel",400400.0,"Bangkok, Thai",Hotel,400.0,27.0,Female,Korean
+Tom Hanks,"New York, USA_Hotel",15001000.0,"New York, USA",Hotel,2000.0,60.0,Male,American
+Tom Hanks,"New York, USA_Hotel",15001000.0,"New York, USA",Hotel,1400.0,60.0,Male,American
+Tom Hanks,"New York, USA_Hotel",15001000.0,"New York, USA",Hotel,1500.0,60.0,Male,American
+Emma Watson,"Phuket, Thai_Resort",700800.0,"Phuket, Thai",Resort,700.0,32.0,Female,British
+James Kim,"Rome, Italy_Hotel",0.0,"Rome, Italy",Hotel,100.0,41.0,Male,American
+James Kim,"Rome, Italy_Hotel",0.0,"Rome, Italy",Hotel,900.0,41.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,900.0,35.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,900.0,45.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,900.0,46.0,Male,British
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,900.0,35.0,Male,USA
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1400.0,35.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1400.0,45.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1400.0,46.0,Male,British
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1400.0,35.0,Male,USA
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1200.0,35.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1200.0,45.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1200.0,46.0,Male,British
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1200.0,35.0,Male,USA
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1100.0,35.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1100.0,45.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1100.0,46.0,Male,British
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1100.0,35.0,Male,USA
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,800.0,35.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,800.0,45.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,800.0,46.0,Male,British
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,800.0,35.0,Male,USA
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,500.0,35.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,500.0,45.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,500.0,46.0,Male,British
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,500.0,35.0,Male,USA
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1000.0,35.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1000.0,45.0,Male,American
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1000.0,46.0,Male,British
+John Smith,Paris_Hotel,800500.0,Paris,Hotel,1000.0,35.0,Male,USA
+Sarah Lee,Tokyo_Airbnb,500300.0,Tokyo,Airbnb,500.0,35.0,Female,South Korean
+Sarah Lee,Tokyo_Airbnb,500300.0,Tokyo,Airbnb,500.0,28.0,Female,Korean
+Sarah Lee,Tokyo_Airbnb,500300.0,Tokyo,Airbnb,500.0,28.0,Female,South Korea
+Sarah Lee,Tokyo_Airbnb,500300.0,Tokyo,Airbnb,500.0,31.0,Female,Australian
+Sarah Lee,Tokyo_Airbnb,500300.0,Tokyo,Airbnb,400.0,35.0,Female,South Korean
+Sarah Lee,Tokyo_Airbnb,500300.0,Tokyo,Airbnb,400.0,28.0,Female,Korean
+Sarah Lee,Tokyo_Airbnb,500300.0,Tokyo,Airbnb,400.0,28.0,Female,South Korea
+Sarah Lee,Tokyo_Airbnb,500300.0,Tokyo,Airbnb,400.0,31.0,Female,Australian
+Sarah Lee,Tokyo_Airbnb,500300.0,Tokyo,Airbnb,800.0,35.0,Female,South Korean
+Sarah Lee,Tokyo_Airbnb,500300.0,Tokyo,Airbnb,800.0,28.0,Female,Korean
+Sarah Lee,Tokyo_Airbnb,500300.0,Tokyo,Airbnb,800.0,28.0,Female,South Korea
+Sarah Lee,Tokyo_Airbnb,500300.0,Tokyo,Airbnb,800.0,31.0,Female,Australian
+Maria Garcia,Bali_Resort,1200700.0,Bali,Resort,1500.0,31.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200700.0,Bali,Resort,1500.0,42.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200700.0,Bali,Resort,1500.0,27.0,Female,Spain
+Maria Garcia,Bali_Resort,1200700.0,Bali,Resort,2200.0,31.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200700.0,Bali,Resort,2200.0,42.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200700.0,Bali,Resort,2200.0,27.0,Female,Spain
+Maria Garcia,Bali_Resort,1200700.0,Bali,Resort,1800.0,31.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200700.0,Bali,Resort,1800.0,42.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200700.0,Bali,Resort,1800.0,27.0,Female,Spain
+Maria Garcia,Bali_Resort,1200700.0,Bali,Resort,1200.0,31.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200700.0,Bali,Resort,1200.0,42.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200700.0,Bali,Resort,1200.0,27.0,Female,Spain
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,1000.0,45.0,Male,Korean
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,1000.0,43.0,Male,Australian
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,1000.0,38.0,Male,Australian
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,1000.0,45.0,Male,Australian
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,1000.0,45.0,Male,South Korea
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,1000.0,38.0,Male,Korean
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,1500.0,45.0,Male,Korean
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,1500.0,43.0,Male,Australian
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,1500.0,38.0,Male,Australian
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,1500.0,45.0,Male,Australian
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,1500.0,45.0,Male,South Korea
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,1500.0,38.0,Male,Korean
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,900.0,45.0,Male,Korean
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,900.0,43.0,Male,Australian
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,900.0,38.0,Male,Australian
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,900.0,45.0,Male,Australian
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,900.0,45.0,Male,South Korea
+David Lee,Sydney_Hotel,900600.0,Sydney,Hotel,900.0,38.0,Male,Korean
+Emily Davis,New York_Airbnb,700200.0,New York,Airbnb,600.0,33.0,Female,Australian
+Emily Davis,New York_Airbnb,700200.0,New York,Airbnb,600.0,31.0,Female,American
+Emily Davis,New York_Airbnb,700200.0,New York,Airbnb,600.0,27.0,Female,American
+Emily Davis,New York_Airbnb,700200.0,New York,Airbnb,700.0,33.0,Female,Australian
+Emily Davis,New York_Airbnb,700200.0,New York,Airbnb,700.0,31.0,Female,American
+Emily Davis,New York_Airbnb,700200.0,New York,Airbnb,700.0,27.0,Female,American
+Emily Davis,New York_Airbnb,700200.0,New York,Airbnb,800.0,33.0,Female,Australian
+Emily Davis,New York_Airbnb,700200.0,New York,Airbnb,800.0,31.0,Female,American
+Emily Davis,New York_Airbnb,700200.0,New York,Airbnb,800.0,27.0,Female,American
+James Wilson,London_Hostel,300400.0,London,Hostel,300.0,32.0,Male,Australian
+James Wilson,London_Hostel,300400.0,London,Hostel,300.0,29.0,Male,British
+Fatima Ahmed,Dubai_Hotel,1000800.0,Dubai,Hotel,1000.0,24.0,Female,Emirati
+Fatima Ahmed,Dubai_Hotel,1000800.0,Dubai,Hotel,1500.0,24.0,Female,Emirati
+Liam Nguyen,Bangkok_Airbnb,400100.0,Bangkok,Airbnb,400.0,26.0,Male,Vietnamese
+Giulia Rossi,Rome_Hostel,200350.0,Rome,Hostel,200.0,30.0,Female,Italian
+Putra Wijaya,Bali_Villa,1500300.0,Bali,Villa,1500.0,33.0,Male,Indonesian
+Putra Wijaya,Bali_Villa,1500300.0,Bali,Villa,1200.0,33.0,Male,Indonesian
+Kim Min-ji,Seoul_Hotel,800150.0,Seoul,Hotel,800.0,27.0,Female,Korean
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,900.0,35.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,900.0,45.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,900.0,46.0,Male,British
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,900.0,35.0,Male,USA
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1400.0,35.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1400.0,45.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1400.0,46.0,Male,British
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1400.0,35.0,Male,USA
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1200.0,35.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1200.0,45.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1200.0,46.0,Male,British
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1200.0,35.0,Male,USA
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1100.0,35.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1100.0,45.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1100.0,46.0,Male,British
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1100.0,35.0,Male,USA
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,800.0,35.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,800.0,45.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,800.0,46.0,Male,British
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,800.0,35.0,Male,USA
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,500.0,35.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,500.0,45.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,500.0,46.0,Male,British
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,500.0,35.0,Male,USA
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1000.0,35.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1000.0,45.0,Male,American
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1000.0,46.0,Male,British
+John Smith,Paris_Hotel,500800.0,Paris,Hotel,1000.0,35.0,Male,USA
+Emily Johnson,Tokyo_Airbnb,400200.0,Tokyo,Airbnb,500.0,28.0,Female,Canada
+Emily Johnson,Tokyo_Airbnb,400200.0,Tokyo,Airbnb,400.0,28.0,Female,Canada
+Emily Johnson,Tokyo_Airbnb,400200.0,Tokyo,Airbnb,800.0,28.0,Female,Canada
+David Lee,Sydney_Hostel,2001200.0,Sydney,Hostel,200.0,45.0,Male,Korean
+David Lee,Sydney_Hostel,2001200.0,Sydney,Hostel,200.0,43.0,Male,Australian
+David Lee,Sydney_Hostel,2001200.0,Sydney,Hostel,200.0,38.0,Male,Australian
+David Lee,Sydney_Hostel,2001200.0,Sydney,Hostel,200.0,45.0,Male,Australian
+David Lee,Sydney_Hostel,2001200.0,Sydney,Hostel,200.0,45.0,Male,South Korea
+David Lee,Sydney_Hostel,2001200.0,Sydney,Hostel,200.0,38.0,Male,Korean
+David Lee,Sydney_Hostel,2001200.0,Sydney,Hostel,300.0,45.0,Male,Korean
+David Lee,Sydney_Hostel,2001200.0,Sydney,Hostel,300.0,43.0,Male,Australian
+David Lee,Sydney_Hostel,2001200.0,Sydney,Hostel,300.0,38.0,Male,Australian
+David Lee,Sydney_Hostel,2001200.0,Sydney,Hostel,300.0,45.0,Male,Australian
+David Lee,Sydney_Hostel,2001200.0,Sydney,Hostel,300.0,45.0,Male,South Korea
+David Lee,Sydney_Hostel,2001200.0,Sydney,Hostel,300.0,38.0,Male,Korean
+Sarah Brown,London_Hotel,600700.0,London,Hotel,1200.0,37.0,Female,British
+Sarah Brown,London_Hotel,600700.0,London,Hotel,1200.0,37.0,Female,UK
+Sarah Brown,London_Hotel,600700.0,London,Hotel,600.0,37.0,Female,British
+Sarah Brown,London_Hotel,600700.0,London,Hotel,600.0,37.0,Female,UK
+Sarah Brown,London_Hotel,600700.0,London,Hotel,900.0,37.0,Female,British
+Sarah Brown,London_Hotel,600700.0,London,Hotel,900.0,37.0,Female,UK
+Michael Wong,New York_Airbnb,800300.0,New York,Airbnb,600.0,50.0,Male,China
+Michael Wong,New York_Airbnb,800300.0,New York,Airbnb,600.0,42.0,Male,Hong Kong
+Michael Wong,New York_Airbnb,800300.0,New York,Airbnb,700.0,50.0,Male,China
+Michael Wong,New York_Airbnb,800300.0,New York,Airbnb,700.0,42.0,Male,Hong Kong
+Michael Wong,New York_Airbnb,800300.0,New York,Airbnb,800.0,50.0,Male,China
+Michael Wong,New York_Airbnb,800300.0,New York,Airbnb,800.0,42.0,Male,Hong Kong
+Jessica Chen,Rome_Hotel,700900.0,Rome,Hotel,1300.0,31.0,Female,Taiwan
+Jessica Chen,Rome_Hotel,700900.0,Rome,Hotel,700.0,31.0,Female,Taiwan
+Jessica Chen,Rome_Hotel,700900.0,Rome,Hotel,1100.0,31.0,Female,Taiwan
+Ken Tanaka,Bangkok_Hostel,300100.0,Bangkok,Hostel,400.0,42.0,Male,Japan
+Ken Tanaka,Bangkok_Hostel,300100.0,Bangkok,Hostel,300.0,42.0,Male,Japan
+Maria Garcia,Cape Town_Airbnb,5001500.0,Cape Town,Airbnb,500.0,31.0,Female,Spanish
+Maria Garcia,Cape Town_Airbnb,5001500.0,Cape Town,Airbnb,500.0,42.0,Female,Spanish
+Maria Garcia,Cape Town_Airbnb,5001500.0,Cape Town,Airbnb,500.0,27.0,Female,Spain
+Rodrigo Oliveira,Rio de Janeiro_Hotel,900400.0,Rio de Janeiro,Hotel,900.0,33.0,Male,Brazil
+Olivia Kim,Bali_Villa,12001000.0,Bali,Villa,1500.0,29.0,Female,South Korea
+Olivia Kim,Bali_Villa,12001000.0,Bali,Villa,1200.0,29.0,Female,South Korea
+Robert Mueller,Amsterdam_Hotel,600150.0,Amsterdam,Hotel,600.0,41.0,Male,Germany
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,900.0,35.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,900.0,45.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,900.0,46.0,Male,British
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,900.0,35.0,Male,USA
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1400.0,35.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1400.0,45.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1400.0,46.0,Male,British
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1400.0,35.0,Male,USA
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1200.0,35.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1200.0,45.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1200.0,46.0,Male,British
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1200.0,35.0,Male,USA
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1100.0,35.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1100.0,45.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1100.0,46.0,Male,British
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1100.0,35.0,Male,USA
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,800.0,35.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,800.0,45.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,800.0,46.0,Male,British
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,800.0,35.0,Male,USA
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,500.0,35.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,500.0,45.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,500.0,46.0,Male,British
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,500.0,35.0,Male,USA
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1000.0,35.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1000.0,45.0,Male,American
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1000.0,46.0,Male,British
+John Smith,Paris_Hotel,1000800.0,Paris,Hotel,1000.0,35.0,Male,USA
+Sarah Lee,Tokyo_Airbnb,800500.0,Tokyo,Airbnb,500.0,35.0,Female,South Korean
+Sarah Lee,Tokyo_Airbnb,800500.0,Tokyo,Airbnb,500.0,28.0,Female,Korean
+Sarah Lee,Tokyo_Airbnb,800500.0,Tokyo,Airbnb,500.0,28.0,Female,South Korea
+Sarah Lee,Tokyo_Airbnb,800500.0,Tokyo,Airbnb,500.0,31.0,Female,Australian
+Sarah Lee,Tokyo_Airbnb,800500.0,Tokyo,Airbnb,400.0,35.0,Female,South Korean
+Sarah Lee,Tokyo_Airbnb,800500.0,Tokyo,Airbnb,400.0,28.0,Female,Korean
+Sarah Lee,Tokyo_Airbnb,800500.0,Tokyo,Airbnb,400.0,28.0,Female,South Korea
+Sarah Lee,Tokyo_Airbnb,800500.0,Tokyo,Airbnb,400.0,31.0,Female,Australian
+Sarah Lee,Tokyo_Airbnb,800500.0,Tokyo,Airbnb,800.0,35.0,Female,South Korean
+Sarah Lee,Tokyo_Airbnb,800500.0,Tokyo,Airbnb,800.0,28.0,Female,Korean
+Sarah Lee,Tokyo_Airbnb,800500.0,Tokyo,Airbnb,800.0,28.0,Female,South Korea
+Sarah Lee,Tokyo_Airbnb,800500.0,Tokyo,Airbnb,800.0,31.0,Female,Australian
+Michael Wong,New York_Hotel,1200200.0,New York,Hotel,1200.0,50.0,Male,China
+Michael Wong,New York_Hotel,1200200.0,New York,Hotel,1200.0,42.0,Male,Hong Kong
+Lisa Chen,Bali_Resort,15001200.0,Bali,Resort,1500.0,30.0,Female,Taiwan
+Lisa Chen,Bali_Resort,15001200.0,Bali,Resort,2200.0,30.0,Female,Taiwan
+Lisa Chen,Bali_Resort,15001200.0,Bali,Resort,1800.0,30.0,Female,Taiwan
+Lisa Chen,Bali_Resort,15001200.0,Bali,Resort,1200.0,30.0,Female,Taiwan
+David Kim,Sydney_Hostel,300900.0,Sydney,Hostel,200.0,34.0,Male,Korean
+David Kim,Sydney_Hostel,300900.0,Sydney,Hostel,200.0,25.0,Male,American
+David Kim,Sydney_Hostel,300900.0,Sydney,Hostel,200.0,26.0,Male,Canada
+David Kim,Sydney_Hostel,300900.0,Sydney,Hostel,200.0,42.0,Male,Korean
+David Kim,Sydney_Hostel,300900.0,Sydney,Hostel,300.0,34.0,Male,Korean
+David Kim,Sydney_Hostel,300900.0,Sydney,Hostel,300.0,25.0,Male,American
+David Kim,Sydney_Hostel,300900.0,Sydney,Hostel,300.0,26.0,Male,Canada
+David Kim,Sydney_Hostel,300900.0,Sydney,Hostel,300.0,42.0,Male,Korean
+Emily Wong,London_Hotel,900150.0,London,Hotel,1200.0,38.0,Female,United Kingdom
+Emily Wong,London_Hotel,900150.0,London,Hotel,600.0,38.0,Female,United Kingdom
+Emily Wong,London_Hotel,900150.0,London,Hotel,900.0,38.0,Female,United Kingdom
+Mark Tan,Phuket_Villa,2000700.0,Phuket,Villa,2000.0,45.0,Male,Singapore
+Emma Lee,Rome_Hotel,1100250.0,Rome,Hotel,1300.0,31.0,Female,Italy
+Emma Lee,Rome_Hotel,1100250.0,Rome,Hotel,700.0,31.0,Female,Italy
+Emma Lee,Rome_Hotel,1100250.0,Rome,Hotel,1100.0,31.0,Female,Italy
+George Chen,Santorini_Airbnb,1000150.0,Santorini,Airbnb,1000.0,27.0,Male,Greece
+Sophia Kim,Dubai_Hotel,1500300.0,Dubai,Hotel,1000.0,29.0,Female,United Arab Emirates
+Sophia Kim,Dubai_Hotel,1500300.0,Dubai,Hotel,1500.0,29.0,Female,United Arab Emirates
+Alex Ng,Phnom Penh_Hostel,200500.0,Phnom Penh,Hostel,200.0,33.0,Male,Cambodia
+Alice Smith,"Tokyo, Japan_Hotel",1000700.0,"Tokyo, Japan",Hotel,1000.0,30.0,Female,American
+Alice Smith,"Tokyo, Japan_Hotel",1000700.0,"Tokyo, Japan",Hotel,1000.0,32.0,Female,American
+Alice Smith,"Tokyo, Japan_Hotel",1000700.0,"Tokyo, Japan",Hotel,1200.0,30.0,Female,American
+Alice Smith,"Tokyo, Japan_Hotel",1000700.0,"Tokyo, Japan",Hotel,1200.0,32.0,Female,American
+Bob Johnson,"Paris, France_Hotel",1200500.0,"Paris, France",Hotel,1500.0,45.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500.0,"Paris, France",Hotel,1500.0,47.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500.0,"Paris, France",Hotel,1400.0,45.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500.0,"Paris, France",Hotel,1400.0,47.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500.0,"Paris, France",Hotel,1200.0,45.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500.0,"Paris, France",Hotel,1200.0,47.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500.0,"Paris, France",Hotel,5000.0,45.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500.0,"Paris, France",Hotel,5000.0,47.0,Male,Canadian
+Cindy Chen,"Sydney, Aus_Airbnb",8001000.0,"Sydney, Aus",Airbnb,800.0,26.0,Female,Chinese
+Cindy Chen,"Sydney, Aus_Airbnb",8001000.0,"Sydney, Aus",Airbnb,900.0,26.0,Female,Chinese
+David Lee,"Rome, Italy_Hotel",900400.0,"Rome, Italy",Hotel,100.0,45.0,Male,Korean
+David Lee,"Rome, Italy_Hotel",900400.0,"Rome, Italy",Hotel,100.0,43.0,Male,Australian
+David Lee,"Rome, Italy_Hotel",900400.0,"Rome, Italy",Hotel,100.0,38.0,Male,Australian
+David Lee,"Rome, Italy_Hotel",900400.0,"Rome, Italy",Hotel,100.0,45.0,Male,Australian
+David Lee,"Rome, Italy_Hotel",900400.0,"Rome, Italy",Hotel,100.0,45.0,Male,South Korea
+David Lee,"Rome, Italy_Hotel",900400.0,"Rome, Italy",Hotel,100.0,38.0,Male,Korean
+David Lee,"Rome, Italy_Hotel",900400.0,"Rome, Italy",Hotel,900.0,45.0,Male,Korean
+David Lee,"Rome, Italy_Hotel",900400.0,"Rome, Italy",Hotel,900.0,43.0,Male,Australian
+David Lee,"Rome, Italy_Hotel",900400.0,"Rome, Italy",Hotel,900.0,38.0,Male,Australian
+David Lee,"Rome, Italy_Hotel",900400.0,"Rome, Italy",Hotel,900.0,45.0,Male,Australian
+David Lee,"Rome, Italy_Hotel",900400.0,"Rome, Italy",Hotel,900.0,45.0,Male,South Korea
+David Lee,"Rome, Italy_Hotel",900400.0,"Rome, Italy",Hotel,900.0,38.0,Male,Korean
+Emily Kim,"Bali, Indonesia_Hostel",500800.0,"Bali, Indonesia",Hostel,500.0,29.0,Female,Korean
+Frank Li,"Cancun, Mexico_Hotel",1300600.0,"Cancun, Mexico",Hotel,1000.0,41.0,Male,American
+Frank Li,"Cancun, Mexico_Hotel",1300600.0,"Cancun, Mexico",Hotel,1300.0,41.0,Male,American
+Gina Lee,"Athens, Greece_Airbnb",700900.0,"Athens, Greece",Airbnb,700.0,35.0,Female,Korean
+Henry Kim,"Tokyo, Japan_Hotel",1200700.0,"Tokyo, Japan",Hotel,1000.0,24.0,Male,Korean
+Henry Kim,"Tokyo, Japan_Hotel",1200700.0,"Tokyo, Japan",Hotel,1200.0,24.0,Male,Korean
+Isabella Chen,"Sydney, Aus_Airbnb",9001000.0,"Sydney, Aus",Airbnb,800.0,30.0,Female,Chinese
+Isabella Chen,"Sydney, Aus_Airbnb",9001000.0,"Sydney, Aus",Airbnb,900.0,30.0,Female,Chinese
+Jack Smith,"Paris, France_Hostel",400700.0,"Paris, France",Hostel,400.0,28.0,Male,American
+Katie Johnson,"Bali, Indonesia_Hotel",800800.0,"Bali, Indonesia",Hotel,800.0,33.0,Female,Canadian
+John Doe,"Paris, France_Hotel",50002500.0,"Paris, France",Hotel,1500.0,35.0,Male,American
+John Doe,"Paris, France_Hotel",50002500.0,"Paris, France",Hotel,1400.0,35.0,Male,American
+John Doe,"Paris, France_Hotel",50002500.0,"Paris, France",Hotel,1200.0,35.0,Male,American
+John Doe,"Paris, France_Hotel",50002500.0,"Paris, France",Hotel,5000.0,35.0,Male,American
+Jane Smith,"Tokyo, Japan_Airbnb",70001500.0,"Tokyo, Japan",Airbnb,700.0,28.0,Female,British
+Jane Smith,"Tokyo, Japan_Airbnb",70001500.0,"Tokyo, Japan",Airbnb,7000.0,28.0,Female,British
+Michael Johnson,"Cape Town, South Africa_Hostel",30002000.0,"Cape Town, South Africa",Hostel,3000.0,45.0,Male,South African
+Sarah Lee,"Sydney, Australia_Hotel",60003000.0,"Sydney, Australia",Hotel,500.0,35.0,Female,South Korean
+Sarah Lee,"Sydney, Australia_Hotel",60003000.0,"Sydney, Australia",Hotel,500.0,28.0,Female,Korean
+Sarah Lee,"Sydney, Australia_Hotel",60003000.0,"Sydney, Australia",Hotel,500.0,28.0,Female,South Korea
+Sarah Lee,"Sydney, Australia_Hotel",60003000.0,"Sydney, Australia",Hotel,500.0,31.0,Female,Australian
+Sarah Lee,"Sydney, Australia_Hotel",60003000.0,"Sydney, Australia",Hotel,6000.0,35.0,Female,South Korean
+Sarah Lee,"Sydney, Australia_Hotel",60003000.0,"Sydney, Australia",Hotel,6000.0,28.0,Female,Korean
+Sarah Lee,"Sydney, Australia_Hotel",60003000.0,"Sydney, Australia",Hotel,6000.0,28.0,Female,South Korea
+Sarah Lee,"Sydney, Australia_Hotel",60003000.0,"Sydney, Australia",Hotel,6000.0,31.0,Female,Australian
+David Kim,"Rome, Italy_Airbnb",40001500.0,"Rome, Italy",Airbnb,800.0,34.0,Male,Korean
+David Kim,"Rome, Italy_Airbnb",40001500.0,"Rome, Italy",Airbnb,800.0,25.0,Male,American
+David Kim,"Rome, Italy_Airbnb",40001500.0,"Rome, Italy",Airbnb,800.0,26.0,Male,Canada
+David Kim,"Rome, Italy_Airbnb",40001500.0,"Rome, Italy",Airbnb,800.0,42.0,Male,Korean
+David Kim,"Rome, Italy_Airbnb",40001500.0,"Rome, Italy",Airbnb,4000.0,34.0,Male,Korean
+David Kim,"Rome, Italy_Airbnb",40001500.0,"Rome, Italy",Airbnb,4000.0,25.0,Male,American
+David Kim,"Rome, Italy_Airbnb",40001500.0,"Rome, Italy",Airbnb,4000.0,26.0,Male,Canada
+David Kim,"Rome, Italy_Airbnb",40001500.0,"Rome, Italy",Airbnb,4000.0,42.0,Male,Korean
+Emily Davis,"New York City, USA_Hotel",80002500.0,"New York City, USA",Hotel,1500.0,33.0,Female,Australian
+Emily Davis,"New York City, USA_Hotel",80002500.0,"New York City, USA",Hotel,1500.0,31.0,Female,American
+Emily Davis,"New York City, USA_Hotel",80002500.0,"New York City, USA",Hotel,1500.0,27.0,Female,American
+Emily Davis,"New York City, USA_Hotel",80002500.0,"New York City, USA",Hotel,8000.0,33.0,Female,Australian
+Emily Davis,"New York City, USA_Hotel",80002500.0,"New York City, USA",Hotel,8000.0,31.0,Female,American
+Emily Davis,"New York City, USA_Hotel",80002500.0,"New York City, USA",Hotel,8000.0,27.0,Female,American
+Jose Perez,"Rio de Janeiro, Brazil_Hostel",25002000.0,"Rio de Janeiro, Brazil",Hostel,2500.0,37.0,Male,Brazilian
+Emma Wilson,"Vancouver, Canada_Hotel",50003000.0,"Vancouver, Canada",Hotel,5000.0,29.0,Female,Canadian
+Ryan Chen,"Bangkok, Thailand_Hostel",20001000.0,"Bangkok, Thailand",Hostel,400.0,34.0,Male,Chinese
+Ryan Chen,"Bangkok, Thailand_Hostel",20001000.0,"Bangkok, Thailand",Hostel,2000.0,34.0,Male,Chinese
+Sofia Rodriguez,"Barcelona, Spain_Airbnb",60002500.0,"Barcelona, Spain",Airbnb,800.0,25.0,Female,Spanish
+Sofia Rodriguez,"Barcelona, Spain_Airbnb",60002500.0,"Barcelona, Spain",Airbnb,700.0,25.0,Female,Spanish
+Sofia Rodriguez,"Barcelona, Spain_Airbnb",60002500.0,"Barcelona, Spain",Airbnb,6000.0,25.0,Female,Spanish
+William Brown,"Auckland, New Zealand_Hotel",70002500.0,"Auckland, New Zealand",Hotel,7000.0,39.0,Male,New Zealander

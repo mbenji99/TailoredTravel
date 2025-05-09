@@ -1,0 +1,598 @@
+user_id,item_id,interaction,destination,accommodation_type,price,age,gender,nationality
+John Smith,"London, UK_Hotel",1200600,"London, UK",Hotel,1200,35.0,Male,American
+John Smith,"London, UK_Hotel",1200600,"London, UK",Hotel,1200,45.0,Male,American
+John Smith,"London, UK_Hotel",1200600,"London, UK",Hotel,1200,46.0,Male,British
+John Smith,"London, UK_Hotel",1200600,"London, UK",Hotel,1200,35.0,Male,USA
+John Smith,"London, UK_Hotel",1200600,"London, UK",Hotel,"$1,000 ",35.0,Male,American
+John Smith,"London, UK_Hotel",1200600,"London, UK",Hotel,"$1,000 ",45.0,Male,American
+John Smith,"London, UK_Hotel",1200600,"London, UK",Hotel,"$1,000 ",46.0,Male,British
+John Smith,"London, UK_Hotel",1200600,"London, UK",Hotel,"$1,000 ",35.0,Male,USA
+Jane Doe,"Phuket, Thailand_Resort",800500,"Phuket, Thailand",Resort,800,28.0,Female,Canadian
+David Lee,"Bali, Indonesia_Villa",1000700,"Bali, Indonesia",Villa,1000,45.0,Male,Korean
+David Lee,"Bali, Indonesia_Villa",1000700,"Bali, Indonesia",Villa,1000,43.0,Male,Australian
+David Lee,"Bali, Indonesia_Villa",1000700,"Bali, Indonesia",Villa,1000,38.0,Male,Australian
+David Lee,"Bali, Indonesia_Villa",1000700,"Bali, Indonesia",Villa,1000,45.0,Male,Australian
+David Lee,"Bali, Indonesia_Villa",1000700,"Bali, Indonesia",Villa,1000,45.0,Male,South Korea
+David Lee,"Bali, Indonesia_Villa",1000700,"Bali, Indonesia",Villa,1000,38.0,Male,Korean
+Sarah Johnson,"New York, USA_Hotel",20001000,"New York, USA",Hotel,2000,29.0,Female,British
+Sarah Johnson,"New York, USA_Hotel",20001000,"New York, USA",Hotel,2000,30.0,Female,American
+Sarah Johnson,"New York, USA_Hotel",20001000,"New York, USA",Hotel,"$1,400 ",29.0,Female,British
+Sarah Johnson,"New York, USA_Hotel",20001000,"New York, USA",Hotel,"$1,400 ",30.0,Female,American
+Sarah Johnson,"New York, USA_Hotel",20001000,"New York, USA",Hotel,1500 USD,29.0,Female,British
+Sarah Johnson,"New York, USA_Hotel",20001000,"New York, USA",Hotel,1500 USD,30.0,Female,American
+Kim Nguyen,"Tokyo, Japan_Airbnb",700200,"Tokyo, Japan",Airbnb,700,26.0,Female,Vietnamese
+Kim Nguyen,"Tokyo, Japan_Airbnb",700200,"Tokyo, Japan",Airbnb,7000,26.0,Female,Vietnamese
+Michael Brown,"Paris, France_Hotel",1500800,"Paris, France",Hotel,1500,42.0,Male,American
+Michael Brown,"Paris, France_Hotel",1500800,"Paris, France",Hotel,1400,42.0,Male,American
+Michael Brown,"Paris, France_Hotel",1500800,"Paris, France",Hotel,"$1,200 ",42.0,Male,American
+Michael Brown,"Paris, France_Hotel",1500800,"Paris, France",Hotel,1200 USD,42.0,Male,American
+Michael Brown,"Paris, France_Hotel",1500800,"Paris, France",Hotel,1200,42.0,Male,American
+Michael Brown,"Paris, France_Hotel",1500800,"Paris, France",Hotel,5000,42.0,Male,American
+Emily Davis,"Sydney, Australia_Hotel",5001200,"Sydney, Australia",Hotel,500,33.0,Female,Australian
+Emily Davis,"Sydney, Australia_Hotel",5001200,"Sydney, Australia",Hotel,500,31.0,Female,American
+Emily Davis,"Sydney, Australia_Hotel",5001200,"Sydney, Australia",Hotel,500,27.0,Female,American
+Emily Davis,"Sydney, Australia_Hotel",5001200,"Sydney, Australia",Hotel,6000,33.0,Female,Australian
+Emily Davis,"Sydney, Australia_Hotel",5001200,"Sydney, Australia",Hotel,6000,31.0,Female,American
+Emily Davis,"Sydney, Australia_Hotel",5001200,"Sydney, Australia",Hotel,6000,27.0,Female,American
+Lucas Santos,"Rio de Janeiro, Brazil_Airbnb",900600,"Rio de Janeiro, Brazil",Airbnb,900,25.0,Male,Brazilian
+Lucas Santos,"Rio de Janeiro, Brazil_Airbnb",900600,"Rio de Janeiro, Brazil",Airbnb,$800 ,25.0,Male,Brazilian
+Laura Janssen,"Amsterdam, Netherlands_Hotel",1200200,"Amsterdam, Netherlands",Hotel,1200,31.0,Female,Dutch
+Laura Janssen,"Amsterdam, Netherlands_Hotel",1200200,"Amsterdam, Netherlands",Hotel,1100,31.0,Female,Dutch
+Mohammed Ali,"Dubai, United Arab Emirates_Resort",2500800,"Dubai, United Arab Emirates",Resort,2500,39.0,Male,Emirati
+Ana Hernandez,"Cancun, Mexico_Hotel",1000500,"Cancun, Mexico",Hotel,1000,27.0,Female,Mexican
+Ana Hernandez,"Cancun, Mexico_Hotel",1000500,"Cancun, Mexico",Hotel,1300,27.0,Female,Mexican
+Carlos Garcia,"Barcelona, Spain_Airbnb",800100,"Barcelona, Spain",Airbnb,800,36.0,Male,Spanish
+Carlos Garcia,"Barcelona, Spain_Airbnb",800100,"Barcelona, Spain",Airbnb,$700 ,36.0,Male,Spanish
+Carlos Garcia,"Barcelona, Spain_Airbnb",800100,"Barcelona, Spain",Airbnb,6000,36.0,Male,Spanish
+Lily Wong,"Honolulu, Hawaii_Resort",30001200,"Honolulu, Hawaii",Resort,3000,29.0,Female,Chinese
+Hans Mueller,"Berlin, Germany_Hotel",1400700,"Berlin, Germany",Hotel,1400,48.0,Male,German
+Fatima Khouri,"Marrakech, Morocco_Riad",600400,"Marrakech, Morocco",Riad,600,26.0,Female,Moroccan
+James MacKenzie,"Edinburgh, Scotland_Hotel",900150,"Edinburgh, Scotland",Hotel,900,32.0,Male,Scottish
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,$900 ,29.0,Female,British
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,$900 ,30.0,Female,American
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,"$1,400 ",29.0,Female,British
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,"$1,400 ",30.0,Female,American
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,1200,29.0,Female,British
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,1200,30.0,Female,American
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,1100,29.0,Female,British
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,1100,30.0,Female,American
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,800 USD,29.0,Female,British
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,800 USD,30.0,Female,American
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,$500 ,29.0,Female,British
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,$500 ,30.0,Female,American
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,1000,29.0,Female,British
+Sarah Johnson,Paris_Hotel,$900 $400 ,Paris,Hotel,1000,30.0,Female,American
+Michael Chang,Bali_Resort,"$1,500 $700 ",Bali,Resort,"$1,500 ",28.0,Male,Chinese
+Michael Chang,Bali_Resort,"$1,500 $700 ",Bali,Resort,2200,28.0,Male,Chinese
+Michael Chang,Bali_Resort,"$1,500 $700 ",Bali,Resort,1800,28.0,Male,Chinese
+Michael Chang,Bali_Resort,"$1,500 $700 ",Bali,Resort,1200 USD,28.0,Male,Chinese
+Michael Chang,Bali_Resort,"$1,500 $700 ",Bali,Resort,1500,28.0,Male,Chinese
+Olivia Rodriguez,London_Hotel,"$1,200 $150 ",London,Hotel,"$1,200 ",35.0,Female,British
+Olivia Rodriguez,London_Hotel,"$1,200 $150 ",London,Hotel,$600 ,35.0,Female,British
+Olivia Rodriguez,London_Hotel,"$1,200 $150 ",London,Hotel,900,35.0,Female,British
+Kenji Nakamura,Tokyo_Hotel,"$1,200 $800 ",Tokyo,Hotel,"$1,200 ",45.0,Male,Japanese
+Kenji Nakamura,Tokyo_Hotel,"$1,200 $800 ",Tokyo,Hotel,"$1,200 ",28.0,Male,Japanese
+Emily Lee,New York_Airbnb,$600 $100 ,New York,Airbnb,$600 ,27.0,Female,American
+Emily Lee,New York_Airbnb,$600 $100 ,New York,Airbnb,700 USD,27.0,Female,American
+Emily Lee,New York_Airbnb,$600 $100 ,New York,Airbnb,$800 ,27.0,Female,American
+James Wilson,Sydney_Hotel,"$1,000 $600 ",Sydney,Hotel,"$1,000 ",32.0,Male,Australian
+James Wilson,Sydney_Hotel,"$1,000 $600 ",Sydney,Hotel,"$1,000 ",29.0,Male,British
+James Wilson,Sydney_Hotel,"$1,000 $600 ",Sydney,Hotel,1500,32.0,Male,Australian
+James Wilson,Sydney_Hotel,"$1,000 $600 ",Sydney,Hotel,1500,29.0,Male,British
+James Wilson,Sydney_Hotel,"$1,000 $600 ",Sydney,Hotel,900 USD,32.0,Male,Australian
+James Wilson,Sydney_Hotel,"$1,000 $600 ",Sydney,Hotel,900 USD,29.0,Male,British
+Sofia Russo,Rome_Airbnb,$700 $80 ,Rome,Airbnb,$700 ,29.0,Female,Italian
+Raj Patel,Bangkok_Hostel,$400 $500 ,Bangkok,Hostel,$400 ,40.0,Male,Indian
+Raj Patel,Bangkok_Hostel,$400 $500 ,Bangkok,Hostel,300,40.0,Male,Indian
+Raj Patel,Bangkok_Hostel,$400 $500 ,Bangkok,Hostel,$300 ,40.0,Male,Indian
+Lily Nguyen,Paris_Hotel,"$1,400 $100 ",Paris,Hotel,$900 ,24.0,Female,Vietnamese
+Lily Nguyen,Paris_Hotel,"$1,400 $100 ",Paris,Hotel,"$1,400 ",24.0,Female,Vietnamese
+Lily Nguyen,Paris_Hotel,"$1,400 $100 ",Paris,Hotel,1200,24.0,Female,Vietnamese
+Lily Nguyen,Paris_Hotel,"$1,400 $100 ",Paris,Hotel,1100,24.0,Female,Vietnamese
+Lily Nguyen,Paris_Hotel,"$1,400 $100 ",Paris,Hotel,800 USD,24.0,Female,Vietnamese
+Lily Nguyen,Paris_Hotel,"$1,400 $100 ",Paris,Hotel,$500 ,24.0,Female,Vietnamese
+Lily Nguyen,Paris_Hotel,"$1,400 $100 ",Paris,Hotel,1000,24.0,Female,Vietnamese
+David Kim,Hawaii_Resort,"$2,000 $800 ",Hawaii,Resort,"$2,000 ",34.0,Male,Korean
+David Kim,Hawaii_Resort,"$2,000 $800 ",Hawaii,Resort,"$2,000 ",25.0,Male,American
+David Kim,Hawaii_Resort,"$2,000 $800 ",Hawaii,Resort,"$2,000 ",26.0,Male,Canada
+David Kim,Hawaii_Resort,"$2,000 $800 ",Hawaii,Resort,"$2,000 ",42.0,Male,Korean
+Maria Garcia,Barcelona_Hotel,"$1,100 $150 ",Barcelona,Hotel,"$1,100 ",31.0,Female,Spanish
+Maria Garcia,Barcelona_Hotel,"$1,100 $150 ",Barcelona,Hotel,"$1,100 ",42.0,Female,Spanish
+Maria Garcia,Barcelona_Hotel,"$1,100 $150 ",Barcelona,Hotel,"$1,100 ",27.0,Female,Spain
+Alice Smith,Japan_Hotel,$800 $500 ,Japan,Hotel,$800 ,30.0,Female,American
+Alice Smith,Japan_Hotel,$800 $500 ,Japan,Hotel,$800 ,32.0,Female,American
+Bob Johnson,Thailand_Hostel,$200 $150 ,Thailand,Hostel,$200 ,45.0,Male,Canadian
+Bob Johnson,Thailand_Hostel,$200 $150 ,Thailand,Hostel,$200 ,47.0,Male,Canadian
+Charlie Lee,France_Airbnb,$600 $300 ,France,Airbnb,$600 ,25.0,Male,Korean
+Emma Davis,Australia_Hotel,"$1,000 $500 ",Australia,Hotel,"$1,000 ",28.0,Female,British
+Olivia Martin,Brazil_Hostel,$150 $50 ,Brazil,Hostel,$150 ,33.0,Female,Australian
+Harry Wilson,Greece_Airbnb,$400 $600 ,Greece,Airbnb,$400 ,20.0,Male,American
+Sophia Lee,Egypt_Hotel,$700 $100 ,Egypt,Hotel,$700 ,37.0,Female,Canadian
+James Brown,Mexico_Airbnb,$500 $800 ,Mexico,Airbnb,$500 ,42.0,Male,British
+Mia Johnson,Italy_Hostel,$180 $120 ,Italy,Hostel,$180 ,31.0,Female,American
+Mia Johnson,Italy_Hostel,$180 $120 ,Italy,Hostel,$180 ,25.0,Female,American
+William Davis,Spain_Hotel,$900 $400 ,Spain,Hotel,$900 ,27.0,Male,Korean
+Amelia Brown,Canada_Airbnb,$350 $75 ,Canada,Airbnb,$350 ,38.0,Female,Australian
+Mia Johnson,"Paris, France_Hotel",1400600,"Paris, France",Hotel,1500,31.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600,"Paris, France",Hotel,1500,25.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600,"Paris, France",Hotel,1400,31.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600,"Paris, France",Hotel,1400,25.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600,"Paris, France",Hotel,"$1,200 ",31.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600,"Paris, France",Hotel,"$1,200 ",25.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600,"Paris, France",Hotel,1200 USD,31.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600,"Paris, France",Hotel,1200 USD,25.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600,"Paris, France",Hotel,1200,31.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600,"Paris, France",Hotel,1200,25.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600,"Paris, France",Hotel,5000,31.0,Female,American
+Mia Johnson,"Paris, France_Hotel",1400600,"Paris, France",Hotel,5000,25.0,Female,American
+Adam Lee,"Sydney, Australia_Airbnb",800150,"Sydney, Australia",Airbnb,800,33.0,Male,Canadian
+Sarah Wong,"Tokyo, Japan_Hostel",500900,"Tokyo, Japan",Hostel,500,28.0,Female,Chinese
+Sarah Wong,"Tokyo, Japan_Hostel",500900,"Tokyo, Japan",Hostel,$500 ,28.0,Female,Chinese
+John Smith,"Cancun, Mexico_Resort",2200800,"Cancun, Mexico",Resort,2200,35.0,Male,American
+John Smith,"Cancun, Mexico_Resort",2200800,"Cancun, Mexico",Resort,2200,45.0,Male,American
+John Smith,"Cancun, Mexico_Resort",2200800,"Cancun, Mexico",Resort,2200,46.0,Male,British
+John Smith,"Cancun, Mexico_Resort",2200800,"Cancun, Mexico",Resort,2200,35.0,Male,USA
+John Smith,"Cancun, Mexico_Resort",2200800,"Cancun, Mexico",Resort,800 USD,35.0,Male,American
+John Smith,"Cancun, Mexico_Resort",2200800,"Cancun, Mexico",Resort,800 USD,45.0,Male,American
+John Smith,"Cancun, Mexico_Resort",2200800,"Cancun, Mexico",Resort,800 USD,46.0,Male,British
+John Smith,"Cancun, Mexico_Resort",2200800,"Cancun, Mexico",Resort,800 USD,35.0,Male,USA
+Maria Silva,"Rio de Janeiro, Brazil_Hotel",1200700,"Rio de Janeiro, Brazil",Hotel,1200,30.0,Female,Brazilian
+Peter Brown,"London, UK_Airbnb",900100,"London, UK",Airbnb,900,55.0,Male,British
+Emma Garcia,"Barcelona, Spain_Hostel",600600,"Barcelona, Spain",Hostel,600,27.0,Female,Spanish
+Michael Davis,"New York City, USA_Hotel",1500500,"New York City, USA",Hotel,1500,41.0,Male,American
+Michael Davis,"New York City, USA_Hotel",1500500,"New York City, USA",Hotel,8000,41.0,Male,American
+Nina Patel,"Bangkok, Thailand_Airbnb",50050,"Bangkok, Thailand",Airbnb,500,29.0,Female,Indian
+Kevin Kim,"Vancouver, Canada_Hostel",400150,"Vancouver, Canada",Hostel,400,24.0,Male,Korean
+Laura van den Berg,"Amsterdam, Netherlands_Hotel",1100700,"Amsterdam, Netherlands",Hotel,1200,31.0,Female,Dutch
+Laura van den Berg,"Amsterdam, Netherlands_Hotel",1100700,"Amsterdam, Netherlands",Hotel,1100,31.0,Female,Dutch
+Jennifer Nguyen,"Paris, France_Hotel","$1,200 $300 ","Paris, France",Hotel,1500,31.0,Female,Canadian
+Jennifer Nguyen,"Paris, France_Hotel","$1,200 $300 ","Paris, France",Hotel,1400,31.0,Female,Canadian
+Jennifer Nguyen,"Paris, France_Hotel","$1,200 $300 ","Paris, France",Hotel,"$1,200 ",31.0,Female,Canadian
+Jennifer Nguyen,"Paris, France_Hotel","$1,200 $300 ","Paris, France",Hotel,1200 USD,31.0,Female,Canadian
+Jennifer Nguyen,"Paris, France_Hotel","$1,200 $300 ","Paris, France",Hotel,1200,31.0,Female,Canadian
+Jennifer Nguyen,"Paris, France_Hotel","$1,200 $300 ","Paris, France",Hotel,5000,31.0,Female,Canadian
+David Kim,"Tokyo, Japan_Hostel",$500 $100 ,"Tokyo, Japan",Hostel,500,34.0,Male,Korean
+David Kim,"Tokyo, Japan_Hostel",$500 $100 ,"Tokyo, Japan",Hostel,500,25.0,Male,American
+David Kim,"Tokyo, Japan_Hostel",$500 $100 ,"Tokyo, Japan",Hostel,500,26.0,Male,Canada
+David Kim,"Tokyo, Japan_Hostel",$500 $100 ,"Tokyo, Japan",Hostel,500,42.0,Male,Korean
+David Kim,"Tokyo, Japan_Hostel",$500 $100 ,"Tokyo, Japan",Hostel,$500 ,34.0,Male,Korean
+David Kim,"Tokyo, Japan_Hostel",$500 $100 ,"Tokyo, Japan",Hostel,$500 ,25.0,Male,American
+David Kim,"Tokyo, Japan_Hostel",$500 $100 ,"Tokyo, Japan",Hostel,$500 ,26.0,Male,Canada
+David Kim,"Tokyo, Japan_Hostel",$500 $100 ,"Tokyo, Japan",Hostel,$500 ,42.0,Male,Korean
+Rachel Lee,"Sydney, AUS_Airbnb",$900 $200 ,"Sydney, AUS",Airbnb,$900 ,27.0,Female,South Korean
+Jessica Wong,"New York, USA_Hotel","$1,400 $800 ","New York, USA",Hotel,2000,28.0,Female,Canadian
+Jessica Wong,"New York, USA_Hotel","$1,400 $800 ","New York, USA",Hotel,"$1,400 ",28.0,Female,Canadian
+Jessica Wong,"New York, USA_Hotel","$1,400 $800 ","New York, USA",Hotel,1500 USD,28.0,Female,Canadian
+Felipe Almeida,"Rio de Janeiro, Brazil_Airbnb",$800 $150 ,"Rio de Janeiro, Brazil",Airbnb,900,30.0,Male,Brazilian
+Felipe Almeida,"Rio de Janeiro, Brazil_Airbnb",$800 $150 ,"Rio de Janeiro, Brazil",Airbnb,$800 ,30.0,Male,Brazilian
+Nisa Patel,"Bangkok, Thailand_Hostel",$400 $50 ,"Bangkok, Thailand",Hostel,$400 ,23.0,Female,Indian
+Nisa Patel,"Bangkok, Thailand_Hostel",$400 $50 ,"Bangkok, Thailand",Hostel,2000,23.0,Female,Indian
+Ben Smith,"London, UK_Hotel","$1,000 $200 ","London, UK",Hotel,1200,35.0,Male,British
+Ben Smith,"London, UK_Hotel","$1,000 $200 ","London, UK",Hotel,"$1,000 ",35.0,Male,British
+Laura Gomez,"Barcelona, Spain_Airbnb",$700 $250 ,"Barcelona, Spain",Airbnb,800,29.0,Female,Spanish
+Laura Gomez,"Barcelona, Spain_Airbnb",$700 $250 ,"Barcelona, Spain",Airbnb,$700 ,29.0,Female,Spanish
+Laura Gomez,"Barcelona, Spain_Airbnb",$700 $250 ,"Barcelona, Spain",Airbnb,6000,29.0,Female,Spanish
+Park Min Woo,"Seoul, South Korea_Hostel",$500 $20 ,"Seoul, South Korea",Hostel,$500 ,27.0,Male,South Korean
+Michael Chen,"Los Angeles, USA_Hotel","$1,200 $300 ","Los Angeles, USA",Hotel,"$1,200 ",26.0,Male,Chinese
+Sofia Rossi,"Rome, Italy_Airbnb",$800 $100 ,"Rome, Italy",Airbnb,$800 ,33.0,Female,Italian
+Sofia Rossi,"Rome, Italy_Airbnb",$800 $100 ,"Rome, Italy",Airbnb,4000,33.0,Female,Italian
+Rachel Sanders,Paris_Hotel,1200800,Paris,Hotel,$900 ,35.0,Female,American
+Rachel Sanders,Paris_Hotel,1200800,Paris,Hotel,"$1,400 ",35.0,Female,American
+Rachel Sanders,Paris_Hotel,1200800,Paris,Hotel,1200,35.0,Female,American
+Rachel Sanders,Paris_Hotel,1200800,Paris,Hotel,1100,35.0,Female,American
+Rachel Sanders,Paris_Hotel,1200800,Paris,Hotel,800 USD,35.0,Female,American
+Rachel Sanders,Paris_Hotel,1200800,Paris,Hotel,$500 ,35.0,Female,American
+Rachel Sanders,Paris_Hotel,1200800,Paris,Hotel,1000,35.0,Female,American
+Kenji Nakamura,Tokyo_Hostel,400300,Tokyo,Hostel,400,45.0,Male,Japanese
+Kenji Nakamura,Tokyo_Hostel,400300,Tokyo,Hostel,400,28.0,Male,Japanese
+Emily Watson,Cape Town_Vacation rental,800200,Cape Town,Vacation rental,800,29.0,Female,British
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,"$1,000 ",45.0,Male,Korean
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,"$1,000 ",43.0,Male,Australian
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,"$1,000 ",38.0,Male,Australian
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,"$1,000 ",45.0,Male,Australian
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,"$1,000 ",45.0,Male,South Korea
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,"$1,000 ",38.0,Male,Korean
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,1500,45.0,Male,Korean
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,1500,43.0,Male,Australian
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,1500,38.0,Male,Australian
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,1500,45.0,Male,Australian
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,1500,45.0,Male,South Korea
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,1500,38.0,Male,Korean
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,900 USD,45.0,Male,Korean
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,900 USD,43.0,Male,Australian
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,900 USD,38.0,Male,Australian
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,900 USD,45.0,Male,Australian
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,900 USD,45.0,Male,South Korea
+David Lee,Sydney_Hotel,15001200,Sydney,Hotel,900 USD,38.0,Male,Korean
+Ana Rodriguez,Barcelona_Vacation rental,900700,Barcelona,Vacation rental,900,31.0,Female,Spanish
+Tom Wilson,Bali_Resort,22001000,Bali,Resort,"$1,500 ",27.0,Male,American
+Tom Wilson,Bali_Resort,22001000,Bali,Resort,2200,27.0,Male,American
+Tom Wilson,Bali_Resort,22001000,Bali,Resort,1800,27.0,Male,American
+Tom Wilson,Bali_Resort,22001000,Bali,Resort,1200 USD,27.0,Male,American
+Tom Wilson,Bali_Resort,22001000,Bali,Resort,1500,27.0,Male,American
+Olivia Green,Paris_Hotel,1100200,Paris,Hotel,$900 ,39.0,Female,French
+Olivia Green,Paris_Hotel,1100200,Paris,Hotel,"$1,400 ",39.0,Female,French
+Olivia Green,Paris_Hotel,1100200,Paris,Hotel,1200,39.0,Female,French
+Olivia Green,Paris_Hotel,1100200,Paris,Hotel,1100,39.0,Female,French
+Olivia Green,Paris_Hotel,1100200,Paris,Hotel,800 USD,39.0,Female,French
+Olivia Green,Paris_Hotel,1100200,Paris,Hotel,$500 ,39.0,Female,French
+Olivia Green,Paris_Hotel,1100200,Paris,Hotel,1000,39.0,Female,French
+James Chen,New York_Vacation rental,1000800,New York,Vacation rental,1000,25.0,Male,American
+Lila Patel,Bangkok_Hostel,300700,Bangkok,Hostel,$400 ,33.0,Female,Indian
+Lila Patel,Bangkok_Hostel,300700,Bangkok,Hostel,300,33.0,Female,Indian
+Lila Patel,Bangkok_Hostel,300700,Bangkok,Hostel,$300 ,33.0,Female,Indian
+Marco Rossi,Rome_Hotel,1300100,Rome,Hotel,1300,41.0,Male,Italian
+Marco Rossi,Rome_Hotel,1300100,Rome,Hotel,$700 ,41.0,Male,Italian
+Marco Rossi,Rome_Hotel,1300100,Rome,Hotel,1100,41.0,Male,Italian
+Sarah Brown,Bali_Resort,18001000,Bali,Resort,"$1,500 ",37.0,Female,British
+Sarah Brown,Bali_Resort,18001000,Bali,Resort,"$1,500 ",37.0,Female,UK
+Sarah Brown,Bali_Resort,18001000,Bali,Resort,2200,37.0,Female,British
+Sarah Brown,Bali_Resort,18001000,Bali,Resort,2200,37.0,Female,UK
+Sarah Brown,Bali_Resort,18001000,Bali,Resort,1800,37.0,Female,British
+Sarah Brown,Bali_Resort,18001000,Bali,Resort,1800,37.0,Female,UK
+Sarah Brown,Bali_Resort,18001000,Bali,Resort,1200 USD,37.0,Female,British
+Sarah Brown,Bali_Resort,18001000,Bali,Resort,1200 USD,37.0,Female,UK
+Sarah Brown,Bali_Resort,18001000,Bali,Resort,1500,37.0,Female,British
+Sarah Brown,Bali_Resort,18001000,Bali,Resort,1500,37.0,Female,UK
+,nan_nan,,,,,,,
+Sarah Lee,"Bali, Indonesia_Resort",500 USD800 USD,"Bali, Indonesia",Resort,500 USD,35.0,Female,South Korean
+Sarah Lee,"Bali, Indonesia_Resort",500 USD800 USD,"Bali, Indonesia",Resort,500 USD,28.0,Female,Korean
+Sarah Lee,"Bali, Indonesia_Resort",500 USD800 USD,"Bali, Indonesia",Resort,500 USD,28.0,Female,South Korea
+Sarah Lee,"Bali, Indonesia_Resort",500 USD800 USD,"Bali, Indonesia",Resort,500 USD,31.0,Female,Australian
+Sarah Lee,"Bali, Indonesia_Resort",500 USD800 USD,"Bali, Indonesia",Resort,600 USD,35.0,Female,South Korean
+Sarah Lee,"Bali, Indonesia_Resort",500 USD800 USD,"Bali, Indonesia",Resort,600 USD,28.0,Female,Korean
+Sarah Lee,"Bali, Indonesia_Resort",500 USD800 USD,"Bali, Indonesia",Resort,600 USD,28.0,Female,South Korea
+Sarah Lee,"Bali, Indonesia_Resort",500 USD800 USD,"Bali, Indonesia",Resort,600 USD,31.0,Female,Australian
+Alex Kim,"Tokyo, Japan_Hotel",1000 USD200 USD,"Tokyo, Japan",Hotel,1000 USD,29.0,Male,American
+Alex Kim,"Tokyo, Japan_Hotel",1000 USD200 USD,"Tokyo, Japan",Hotel,1000,29.0,Male,American
+Alex Kim,"Tokyo, Japan_Hotel",1000 USD200 USD,"Tokyo, Japan",Hotel,1200,29.0,Male,American
+Maria Hernandez,"Cancun, Mexico_Resort",800 USD500 USD,"Cancun, Mexico",Resort,2200,42.0,Female,Mexican
+Maria Hernandez,"Cancun, Mexico_Resort",800 USD500 USD,"Cancun, Mexico",Resort,800 USD,42.0,Female,Mexican
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1500,35.0,Male,American
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1500,45.0,Male,American
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1500,46.0,Male,British
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1500,35.0,Male,USA
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1400,35.0,Male,American
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1400,45.0,Male,American
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1400,46.0,Male,British
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1400,35.0,Male,USA
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,"$1,200 ",35.0,Male,American
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,"$1,200 ",45.0,Male,American
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,"$1,200 ",46.0,Male,British
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,"$1,200 ",35.0,Male,USA
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1200 USD,35.0,Male,American
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1200 USD,45.0,Male,American
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1200 USD,46.0,Male,British
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1200 USD,35.0,Male,USA
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1200,35.0,Male,American
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1200,45.0,Male,American
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1200,46.0,Male,British
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,1200,35.0,Male,USA
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,5000,35.0,Male,American
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,5000,45.0,Male,American
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,5000,46.0,Male,British
+John Smith,"Paris, France_Hotel",1200 USD700 USD,"Paris, France",Hotel,5000,35.0,Male,USA
+Mark Johnson,"Cape Town, SA_Guesthouse",400 USD300 USD,"Cape Town, SA",Guesthouse,400 USD,31.0,Male,South African
+Amanda Chen,"Bali, Indonesia_Resort",600 USD700 USD,"Bali, Indonesia",Resort,500 USD,25.0,Female,Taiwanese
+Amanda Chen,"Bali, Indonesia_Resort",600 USD700 USD,"Bali, Indonesia",Resort,600 USD,25.0,Female,Taiwanese
+David Lee,"Sydney, Aus_Hotel",900 USD600 USD,"Sydney, Aus",Hotel,900 USD,45.0,Male,Korean
+David Lee,"Sydney, Aus_Hotel",900 USD600 USD,"Sydney, Aus",Hotel,900 USD,43.0,Male,Australian
+David Lee,"Sydney, Aus_Hotel",900 USD600 USD,"Sydney, Aus",Hotel,900 USD,38.0,Male,Australian
+David Lee,"Sydney, Aus_Hotel",900 USD600 USD,"Sydney, Aus",Hotel,900 USD,45.0,Male,Australian
+David Lee,"Sydney, Aus_Hotel",900 USD600 USD,"Sydney, Aus",Hotel,900 USD,45.0,Male,South Korea
+David Lee,"Sydney, Aus_Hotel",900 USD600 USD,"Sydney, Aus",Hotel,900 USD,38.0,Male,Korean
+Nana Kwon,"Bangkok, Thai_Hotel",400 USD400 USD,"Bangkok, Thai",Hotel,400 USD,27.0,Female,Korean
+Tom Hanks,"New York, USA_Hotel",1500 USD1000 USD,"New York, USA",Hotel,2000,60.0,Male,American
+Tom Hanks,"New York, USA_Hotel",1500 USD1000 USD,"New York, USA",Hotel,"$1,400 ",60.0,Male,American
+Tom Hanks,"New York, USA_Hotel",1500 USD1000 USD,"New York, USA",Hotel,1500 USD,60.0,Male,American
+Emma Watson,"Phuket, Thai_Resort",700 USD800 USD,"Phuket, Thai",Resort,700 USD,32.0,Female,British
+James Kim,"Rome, Italy_Hotel",,"Rome, Italy",Hotel,100,41.0,Male,American
+James Kim,"Rome, Italy_Hotel",,"Rome, Italy",Hotel,900,41.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,$900 ,35.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,$900 ,45.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,$900 ,46.0,Male,British
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,$900 ,35.0,Male,USA
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,"$1,400 ",35.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,"$1,400 ",45.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,"$1,400 ",46.0,Male,British
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,"$1,400 ",35.0,Male,USA
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,1200,35.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,1200,45.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,1200,46.0,Male,British
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,1200,35.0,Male,USA
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,1100,35.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,1100,45.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,1100,46.0,Male,British
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,1100,35.0,Male,USA
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,800 USD,35.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,800 USD,45.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,800 USD,46.0,Male,British
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,800 USD,35.0,Male,USA
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,$500 ,35.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,$500 ,45.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,$500 ,46.0,Male,British
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,$500 ,35.0,Male,USA
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,1000,35.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,1000,45.0,Male,American
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,1000,46.0,Male,British
+John Smith,Paris_Hotel,800 USD500 USD,Paris,Hotel,1000,35.0,Male,USA
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD,Tokyo,Airbnb,500 USD,35.0,Female,South Korean
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD,Tokyo,Airbnb,500 USD,28.0,Female,Korean
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD,Tokyo,Airbnb,500 USD,28.0,Female,South Korea
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD,Tokyo,Airbnb,500 USD,31.0,Female,Australian
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD,Tokyo,Airbnb,$400 ,35.0,Female,South Korean
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD,Tokyo,Airbnb,$400 ,28.0,Female,Korean
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD,Tokyo,Airbnb,$400 ,28.0,Female,South Korea
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD,Tokyo,Airbnb,$400 ,31.0,Female,Australian
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD,Tokyo,Airbnb,800,35.0,Female,South Korean
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD,Tokyo,Airbnb,800,28.0,Female,Korean
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD,Tokyo,Airbnb,800,28.0,Female,South Korea
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD,Tokyo,Airbnb,800,31.0,Female,Australian
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,"$1,500 ",31.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,"$1,500 ",42.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,"$1,500 ",27.0,Female,Spain
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,2200,31.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,2200,42.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,2200,27.0,Female,Spain
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,1800,31.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,1800,42.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,1800,27.0,Female,Spain
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,1200 USD,31.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,1200 USD,42.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,1200 USD,27.0,Female,Spain
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,1500,31.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,1500,42.0,Female,Spanish
+Maria Garcia,Bali_Resort,1200 USD700 USD,Bali,Resort,1500,27.0,Female,Spain
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,"$1,000 ",45.0,Male,Korean
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,"$1,000 ",43.0,Male,Australian
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,"$1,000 ",38.0,Male,Australian
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,"$1,000 ",45.0,Male,Australian
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,"$1,000 ",45.0,Male,South Korea
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,"$1,000 ",38.0,Male,Korean
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,1500,45.0,Male,Korean
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,1500,43.0,Male,Australian
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,1500,38.0,Male,Australian
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,1500,45.0,Male,Australian
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,1500,45.0,Male,South Korea
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,1500,38.0,Male,Korean
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,900 USD,45.0,Male,Korean
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,900 USD,43.0,Male,Australian
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,900 USD,38.0,Male,Australian
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,900 USD,45.0,Male,Australian
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,900 USD,45.0,Male,South Korea
+David Lee,Sydney_Hotel,900 USD600 USD,Sydney,Hotel,900 USD,38.0,Male,Korean
+Emily Davis,New York_Airbnb,700 USD200 USD,New York,Airbnb,$600 ,33.0,Female,Australian
+Emily Davis,New York_Airbnb,700 USD200 USD,New York,Airbnb,$600 ,31.0,Female,American
+Emily Davis,New York_Airbnb,700 USD200 USD,New York,Airbnb,$600 ,27.0,Female,American
+Emily Davis,New York_Airbnb,700 USD200 USD,New York,Airbnb,700 USD,33.0,Female,Australian
+Emily Davis,New York_Airbnb,700 USD200 USD,New York,Airbnb,700 USD,31.0,Female,American
+Emily Davis,New York_Airbnb,700 USD200 USD,New York,Airbnb,700 USD,27.0,Female,American
+Emily Davis,New York_Airbnb,700 USD200 USD,New York,Airbnb,$800 ,33.0,Female,Australian
+Emily Davis,New York_Airbnb,700 USD200 USD,New York,Airbnb,$800 ,31.0,Female,American
+Emily Davis,New York_Airbnb,700 USD200 USD,New York,Airbnb,$800 ,27.0,Female,American
+James Wilson,London_Hostel,300 USD400 USD,London,Hostel,300 USD,32.0,Male,Australian
+James Wilson,London_Hostel,300 USD400 USD,London,Hostel,300 USD,29.0,Male,British
+Fatima Ahmed,Dubai_Hotel,1000 USD800 USD,Dubai,Hotel,1000 USD,24.0,Female,Emirati
+Fatima Ahmed,Dubai_Hotel,1000 USD800 USD,Dubai,Hotel,1500,24.0,Female,Emirati
+Liam Nguyen,Bangkok_Airbnb,400 USD100 USD,Bangkok,Airbnb,400 USD,26.0,Male,Vietnamese
+Giulia Rossi,Rome_Hostel,200 USD350 USD,Rome,Hostel,200 USD,30.0,Female,Italian
+Putra Wijaya,Bali_Villa,1500 USD300 USD,Bali,Villa,1500 USD,33.0,Male,Indonesian
+Putra Wijaya,Bali_Villa,1500 USD300 USD,Bali,Villa,"$1,200 ",33.0,Male,Indonesian
+Kim Min-ji,Seoul_Hotel,800 USD150 USD,Seoul,Hotel,800 USD,27.0,Female,Korean
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,$900 ,35.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,$900 ,45.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,$900 ,46.0,Male,British
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,$900 ,35.0,Male,USA
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,"$1,400 ",35.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,"$1,400 ",45.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,"$1,400 ",46.0,Male,British
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,"$1,400 ",35.0,Male,USA
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,1200,35.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,1200,45.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,1200,46.0,Male,British
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,1200,35.0,Male,USA
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,1100,35.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,1100,45.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,1100,46.0,Male,British
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,1100,35.0,Male,USA
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,800 USD,35.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,800 USD,45.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,800 USD,46.0,Male,British
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,800 USD,35.0,Male,USA
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,$500 ,35.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,$500 ,45.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,$500 ,46.0,Male,British
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,$500 ,35.0,Male,USA
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,1000,35.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,1000,45.0,Male,American
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,1000,46.0,Male,British
+John Smith,Paris_Hotel,$500 $800 ,Paris,Hotel,1000,35.0,Male,USA
+Emily Johnson,Tokyo_Airbnb,$400 $200 ,Tokyo,Airbnb,500 USD,28.0,Female,Canada
+Emily Johnson,Tokyo_Airbnb,$400 $200 ,Tokyo,Airbnb,$400 ,28.0,Female,Canada
+Emily Johnson,Tokyo_Airbnb,$400 $200 ,Tokyo,Airbnb,800,28.0,Female,Canada
+David Lee,Sydney_Hostel,"$200 $1,200 ",Sydney,Hostel,$200 ,45.0,Male,Korean
+David Lee,Sydney_Hostel,"$200 $1,200 ",Sydney,Hostel,$200 ,43.0,Male,Australian
+David Lee,Sydney_Hostel,"$200 $1,200 ",Sydney,Hostel,$200 ,38.0,Male,Australian
+David Lee,Sydney_Hostel,"$200 $1,200 ",Sydney,Hostel,$200 ,45.0,Male,Australian
+David Lee,Sydney_Hostel,"$200 $1,200 ",Sydney,Hostel,$200 ,45.0,Male,South Korea
+David Lee,Sydney_Hostel,"$200 $1,200 ",Sydney,Hostel,$200 ,38.0,Male,Korean
+David Lee,Sydney_Hostel,"$200 $1,200 ",Sydney,Hostel,300,45.0,Male,Korean
+David Lee,Sydney_Hostel,"$200 $1,200 ",Sydney,Hostel,300,43.0,Male,Australian
+David Lee,Sydney_Hostel,"$200 $1,200 ",Sydney,Hostel,300,38.0,Male,Australian
+David Lee,Sydney_Hostel,"$200 $1,200 ",Sydney,Hostel,300,45.0,Male,Australian
+David Lee,Sydney_Hostel,"$200 $1,200 ",Sydney,Hostel,300,45.0,Male,South Korea
+David Lee,Sydney_Hostel,"$200 $1,200 ",Sydney,Hostel,300,38.0,Male,Korean
+Sarah Brown,London_Hotel,$600 $700 ,London,Hotel,"$1,200 ",37.0,Female,British
+Sarah Brown,London_Hotel,$600 $700 ,London,Hotel,"$1,200 ",37.0,Female,UK
+Sarah Brown,London_Hotel,$600 $700 ,London,Hotel,$600 ,37.0,Female,British
+Sarah Brown,London_Hotel,$600 $700 ,London,Hotel,$600 ,37.0,Female,UK
+Sarah Brown,London_Hotel,$600 $700 ,London,Hotel,900,37.0,Female,British
+Sarah Brown,London_Hotel,$600 $700 ,London,Hotel,900,37.0,Female,UK
+Michael Wong,New York_Airbnb,$800 $300 ,New York,Airbnb,$600 ,50.0,Male,China
+Michael Wong,New York_Airbnb,$800 $300 ,New York,Airbnb,$600 ,42.0,Male,Hong Kong
+Michael Wong,New York_Airbnb,$800 $300 ,New York,Airbnb,700 USD,50.0,Male,China
+Michael Wong,New York_Airbnb,$800 $300 ,New York,Airbnb,700 USD,42.0,Male,Hong Kong
+Michael Wong,New York_Airbnb,$800 $300 ,New York,Airbnb,$800 ,50.0,Male,China
+Michael Wong,New York_Airbnb,$800 $300 ,New York,Airbnb,$800 ,42.0,Male,Hong Kong
+Jessica Chen,Rome_Hotel,$700 $900 ,Rome,Hotel,1300,31.0,Female,Taiwan
+Jessica Chen,Rome_Hotel,$700 $900 ,Rome,Hotel,$700 ,31.0,Female,Taiwan
+Jessica Chen,Rome_Hotel,$700 $900 ,Rome,Hotel,1100,31.0,Female,Taiwan
+Ken Tanaka,Bangkok_Hostel,$300 $100 ,Bangkok,Hostel,$400 ,42.0,Male,Japan
+Ken Tanaka,Bangkok_Hostel,$300 $100 ,Bangkok,Hostel,300,42.0,Male,Japan
+Ken Tanaka,Bangkok_Hostel,$300 $100 ,Bangkok,Hostel,$300 ,42.0,Male,Japan
+Maria Garcia,Cape Town_Airbnb,"$500 $1,500 ",Cape Town,Airbnb,$500 ,31.0,Female,Spanish
+Maria Garcia,Cape Town_Airbnb,"$500 $1,500 ",Cape Town,Airbnb,$500 ,42.0,Female,Spanish
+Maria Garcia,Cape Town_Airbnb,"$500 $1,500 ",Cape Town,Airbnb,$500 ,27.0,Female,Spain
+Rodrigo Oliveira,Rio de Janeiro_Hotel,$900 $400 ,Rio de Janeiro,Hotel,$900 ,33.0,Male,Brazil
+Olivia Kim,Bali_Villa,"$1,200 $1,000 ",Bali,Villa,1500 USD,29.0,Female,South Korea
+Olivia Kim,Bali_Villa,"$1,200 $1,000 ",Bali,Villa,"$1,200 ",29.0,Female,South Korea
+Robert Mueller,Amsterdam_Hotel,$600 $150 ,Amsterdam,Hotel,$600 ,41.0,Male,Germany
+John Smith,Paris_Hotel,1000800,Paris,Hotel,$900 ,35.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,$900 ,45.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,$900 ,46.0,Male,British
+John Smith,Paris_Hotel,1000800,Paris,Hotel,$900 ,35.0,Male,USA
+John Smith,Paris_Hotel,1000800,Paris,Hotel,"$1,400 ",35.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,"$1,400 ",45.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,"$1,400 ",46.0,Male,British
+John Smith,Paris_Hotel,1000800,Paris,Hotel,"$1,400 ",35.0,Male,USA
+John Smith,Paris_Hotel,1000800,Paris,Hotel,1200,35.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,1200,45.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,1200,46.0,Male,British
+John Smith,Paris_Hotel,1000800,Paris,Hotel,1200,35.0,Male,USA
+John Smith,Paris_Hotel,1000800,Paris,Hotel,1100,35.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,1100,45.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,1100,46.0,Male,British
+John Smith,Paris_Hotel,1000800,Paris,Hotel,1100,35.0,Male,USA
+John Smith,Paris_Hotel,1000800,Paris,Hotel,800 USD,35.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,800 USD,45.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,800 USD,46.0,Male,British
+John Smith,Paris_Hotel,1000800,Paris,Hotel,800 USD,35.0,Male,USA
+John Smith,Paris_Hotel,1000800,Paris,Hotel,$500 ,35.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,$500 ,45.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,$500 ,46.0,Male,British
+John Smith,Paris_Hotel,1000800,Paris,Hotel,$500 ,35.0,Male,USA
+John Smith,Paris_Hotel,1000800,Paris,Hotel,1000,35.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,1000,45.0,Male,American
+John Smith,Paris_Hotel,1000800,Paris,Hotel,1000,46.0,Male,British
+John Smith,Paris_Hotel,1000800,Paris,Hotel,1000,35.0,Male,USA
+Sarah Lee,Tokyo_Airbnb,800500,Tokyo,Airbnb,500 USD,35.0,Female,South Korean
+Sarah Lee,Tokyo_Airbnb,800500,Tokyo,Airbnb,500 USD,28.0,Female,Korean
+Sarah Lee,Tokyo_Airbnb,800500,Tokyo,Airbnb,500 USD,28.0,Female,South Korea
+Sarah Lee,Tokyo_Airbnb,800500,Tokyo,Airbnb,500 USD,31.0,Female,Australian
+Sarah Lee,Tokyo_Airbnb,800500,Tokyo,Airbnb,$400 ,35.0,Female,South Korean
+Sarah Lee,Tokyo_Airbnb,800500,Tokyo,Airbnb,$400 ,28.0,Female,Korean
+Sarah Lee,Tokyo_Airbnb,800500,Tokyo,Airbnb,$400 ,28.0,Female,South Korea
+Sarah Lee,Tokyo_Airbnb,800500,Tokyo,Airbnb,$400 ,31.0,Female,Australian
+Sarah Lee,Tokyo_Airbnb,800500,Tokyo,Airbnb,800,35.0,Female,South Korean
+Sarah Lee,Tokyo_Airbnb,800500,Tokyo,Airbnb,800,28.0,Female,Korean
+Sarah Lee,Tokyo_Airbnb,800500,Tokyo,Airbnb,800,28.0,Female,South Korea
+Sarah Lee,Tokyo_Airbnb,800500,Tokyo,Airbnb,800,31.0,Female,Australian
+Michael Wong,New York_Hotel,1200200,New York,Hotel,1200,50.0,Male,China
+Michael Wong,New York_Hotel,1200200,New York,Hotel,1200,42.0,Male,Hong Kong
+Lisa Chen,Bali_Resort,15001200,Bali,Resort,"$1,500 ",30.0,Female,Taiwan
+Lisa Chen,Bali_Resort,15001200,Bali,Resort,2200,30.0,Female,Taiwan
+Lisa Chen,Bali_Resort,15001200,Bali,Resort,1800,30.0,Female,Taiwan
+Lisa Chen,Bali_Resort,15001200,Bali,Resort,1200 USD,30.0,Female,Taiwan
+Lisa Chen,Bali_Resort,15001200,Bali,Resort,1500,30.0,Female,Taiwan
+David Kim,Sydney_Hostel,300900,Sydney,Hostel,$200 ,34.0,Male,Korean
+David Kim,Sydney_Hostel,300900,Sydney,Hostel,$200 ,25.0,Male,American
+David Kim,Sydney_Hostel,300900,Sydney,Hostel,$200 ,26.0,Male,Canada
+David Kim,Sydney_Hostel,300900,Sydney,Hostel,$200 ,42.0,Male,Korean
+David Kim,Sydney_Hostel,300900,Sydney,Hostel,300,34.0,Male,Korean
+David Kim,Sydney_Hostel,300900,Sydney,Hostel,300,25.0,Male,American
+David Kim,Sydney_Hostel,300900,Sydney,Hostel,300,26.0,Male,Canada
+David Kim,Sydney_Hostel,300900,Sydney,Hostel,300,42.0,Male,Korean
+Emily Wong,London_Hotel,900150,London,Hotel,"$1,200 ",38.0,Female,United Kingdom
+Emily Wong,London_Hotel,900150,London,Hotel,$600 ,38.0,Female,United Kingdom
+Emily Wong,London_Hotel,900150,London,Hotel,900,38.0,Female,United Kingdom
+Mark Tan,Phuket_Villa,2000700,Phuket,Villa,2000,45.0,Male,Singapore
+Emma Lee,Rome_Hotel,1100250,Rome,Hotel,1300,31.0,Female,Italy
+Emma Lee,Rome_Hotel,1100250,Rome,Hotel,$700 ,31.0,Female,Italy
+Emma Lee,Rome_Hotel,1100250,Rome,Hotel,1100,31.0,Female,Italy
+George Chen,Santorini_Airbnb,1000150,Santorini,Airbnb,1000,27.0,Male,Greece
+Sophia Kim,Dubai_Hotel,1500300,Dubai,Hotel,1000 USD,29.0,Female,United Arab Emirates
+Sophia Kim,Dubai_Hotel,1500300,Dubai,Hotel,1500,29.0,Female,United Arab Emirates
+Alex Ng,Phnom Penh_Hostel,200500,Phnom Penh,Hostel,200,33.0,Male,Cambodia
+Alice Smith,"Tokyo, Japan_Hotel",1000700,"Tokyo, Japan",Hotel,1000 USD,30.0,Female,American
+Alice Smith,"Tokyo, Japan_Hotel",1000700,"Tokyo, Japan",Hotel,1000 USD,32.0,Female,American
+Alice Smith,"Tokyo, Japan_Hotel",1000700,"Tokyo, Japan",Hotel,1000,30.0,Female,American
+Alice Smith,"Tokyo, Japan_Hotel",1000700,"Tokyo, Japan",Hotel,1000,32.0,Female,American
+Alice Smith,"Tokyo, Japan_Hotel",1000700,"Tokyo, Japan",Hotel,1200,30.0,Female,American
+Alice Smith,"Tokyo, Japan_Hotel",1000700,"Tokyo, Japan",Hotel,1200,32.0,Female,American
+Bob Johnson,"Paris, France_Hotel",1200500,"Paris, France",Hotel,1500,45.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500,"Paris, France",Hotel,1500,47.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500,"Paris, France",Hotel,1400,45.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500,"Paris, France",Hotel,1400,47.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500,"Paris, France",Hotel,"$1,200 ",45.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500,"Paris, France",Hotel,"$1,200 ",47.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500,"Paris, France",Hotel,1200 USD,45.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500,"Paris, France",Hotel,1200 USD,47.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500,"Paris, France",Hotel,1200,45.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500,"Paris, France",Hotel,1200,47.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500,"Paris, France",Hotel,5000,45.0,Male,Canadian
+Bob Johnson,"Paris, France_Hotel",1200500,"Paris, France",Hotel,5000,47.0,Male,Canadian
+Cindy Chen,"Sydney, Aus_Airbnb",8001000,"Sydney, Aus",Airbnb,800,26.0,Female,Chinese
+Cindy Chen,"Sydney, Aus_Airbnb",8001000,"Sydney, Aus",Airbnb,900,26.0,Female,Chinese
+David Lee,"Rome, Italy_Hotel",900400,"Rome, Italy",Hotel,100,45.0,Male,Korean
+David Lee,"Rome, Italy_Hotel",900400,"Rome, Italy",Hotel,100,43.0,Male,Australian
+David Lee,"Rome, Italy_Hotel",900400,"Rome, Italy",Hotel,100,38.0,Male,Australian
+David Lee,"Rome, Italy_Hotel",900400,"Rome, Italy",Hotel,100,45.0,Male,Australian
+David Lee,"Rome, Italy_Hotel",900400,"Rome, Italy",Hotel,100,45.0,Male,South Korea
+David Lee,"Rome, Italy_Hotel",900400,"Rome, Italy",Hotel,100,38.0,Male,Korean
+David Lee,"Rome, Italy_Hotel",900400,"Rome, Italy",Hotel,900,45.0,Male,Korean
+David Lee,"Rome, Italy_Hotel",900400,"Rome, Italy",Hotel,900,43.0,Male,Australian
+David Lee,"Rome, Italy_Hotel",900400,"Rome, Italy",Hotel,900,38.0,Male,Australian
+David Lee,"Rome, Italy_Hotel",900400,"Rome, Italy",Hotel,900,45.0,Male,Australian
+David Lee,"Rome, Italy_Hotel",900400,"Rome, Italy",Hotel,900,45.0,Male,South Korea
+David Lee,"Rome, Italy_Hotel",900400,"Rome, Italy",Hotel,900,38.0,Male,Korean
+Emily Kim,"Bali, Indonesia_Hostel",500800,"Bali, Indonesia",Hostel,500,29.0,Female,Korean
+Frank Li,"Cancun, Mexico_Hotel",1300600,"Cancun, Mexico",Hotel,1000,41.0,Male,American
+Frank Li,"Cancun, Mexico_Hotel",1300600,"Cancun, Mexico",Hotel,1300,41.0,Male,American
+Gina Lee,"Athens, Greece_Airbnb",700900,"Athens, Greece",Airbnb,700,35.0,Female,Korean
+Henry Kim,"Tokyo, Japan_Hotel",1200700,"Tokyo, Japan",Hotel,1000 USD,24.0,Male,Korean
+Henry Kim,"Tokyo, Japan_Hotel",1200700,"Tokyo, Japan",Hotel,1000,24.0,Male,Korean
+Henry Kim,"Tokyo, Japan_Hotel",1200700,"Tokyo, Japan",Hotel,1200,24.0,Male,Korean
+Isabella Chen,"Sydney, Aus_Airbnb",9001000,"Sydney, Aus",Airbnb,800,30.0,Female,Chinese
+Isabella Chen,"Sydney, Aus_Airbnb",9001000,"Sydney, Aus",Airbnb,900,30.0,Female,Chinese
+Jack Smith,"Paris, France_Hostel",400700,"Paris, France",Hostel,400,28.0,Male,American
+Katie Johnson,"Bali, Indonesia_Hotel",800800,"Bali, Indonesia",Hotel,800,33.0,Female,Canadian
+,nan_nan,,,,,,,
+John Doe,"Paris, France_Hotel",50002500,"Paris, France",Hotel,1500,35.0,Male,American
+John Doe,"Paris, France_Hotel",50002500,"Paris, France",Hotel,1400,35.0,Male,American
+John Doe,"Paris, France_Hotel",50002500,"Paris, France",Hotel,"$1,200 ",35.0,Male,American
+John Doe,"Paris, France_Hotel",50002500,"Paris, France",Hotel,1200 USD,35.0,Male,American
+John Doe,"Paris, France_Hotel",50002500,"Paris, France",Hotel,1200,35.0,Male,American
+John Doe,"Paris, France_Hotel",50002500,"Paris, France",Hotel,5000,35.0,Male,American
+Jane Smith,"Tokyo, Japan_Airbnb",70001500,"Tokyo, Japan",Airbnb,700,28.0,Female,British
+Jane Smith,"Tokyo, Japan_Airbnb",70001500,"Tokyo, Japan",Airbnb,7000,28.0,Female,British
+Michael Johnson,"Cape Town, South Africa_Hostel",30002000,"Cape Town, South Africa",Hostel,3000,45.0,Male,South African
+Sarah Lee,"Sydney, Australia_Hotel",60003000,"Sydney, Australia",Hotel,500,35.0,Female,South Korean
+Sarah Lee,"Sydney, Australia_Hotel",60003000,"Sydney, Australia",Hotel,500,28.0,Female,Korean
+Sarah Lee,"Sydney, Australia_Hotel",60003000,"Sydney, Australia",Hotel,500,28.0,Female,South Korea
+Sarah Lee,"Sydney, Australia_Hotel",60003000,"Sydney, Australia",Hotel,500,31.0,Female,Australian
+Sarah Lee,"Sydney, Australia_Hotel",60003000,"Sydney, Australia",Hotel,6000,35.0,Female,South Korean
+Sarah Lee,"Sydney, Australia_Hotel",60003000,"Sydney, Australia",Hotel,6000,28.0,Female,Korean
+Sarah Lee,"Sydney, Australia_Hotel",60003000,"Sydney, Australia",Hotel,6000,28.0,Female,South Korea
+Sarah Lee,"Sydney, Australia_Hotel",60003000,"Sydney, Australia",Hotel,6000,31.0,Female,Australian
+David Kim,"Rome, Italy_Airbnb",40001500,"Rome, Italy",Airbnb,$800 ,34.0,Male,Korean
+David Kim,"Rome, Italy_Airbnb",40001500,"Rome, Italy",Airbnb,$800 ,25.0,Male,American
+David Kim,"Rome, Italy_Airbnb",40001500,"Rome, Italy",Airbnb,$800 ,26.0,Male,Canada
+David Kim,"Rome, Italy_Airbnb",40001500,"Rome, Italy",Airbnb,$800 ,42.0,Male,Korean
+David Kim,"Rome, Italy_Airbnb",40001500,"Rome, Italy",Airbnb,4000,34.0,Male,Korean
+David Kim,"Rome, Italy_Airbnb",40001500,"Rome, Italy",Airbnb,4000,25.0,Male,American
+David Kim,"Rome, Italy_Airbnb",40001500,"Rome, Italy",Airbnb,4000,26.0,Male,Canada
+David Kim,"Rome, Italy_Airbnb",40001500,"Rome, Italy",Airbnb,4000,42.0,Male,Korean
+Emily Davis,"New York City, USA_Hotel",80002500,"New York City, USA",Hotel,1500,33.0,Female,Australian
+Emily Davis,"New York City, USA_Hotel",80002500,"New York City, USA",Hotel,1500,31.0,Female,American
+Emily Davis,"New York City, USA_Hotel",80002500,"New York City, USA",Hotel,1500,27.0,Female,American
+Emily Davis,"New York City, USA_Hotel",80002500,"New York City, USA",Hotel,8000,33.0,Female,Australian
+Emily Davis,"New York City, USA_Hotel",80002500,"New York City, USA",Hotel,8000,31.0,Female,American
+Emily Davis,"New York City, USA_Hotel",80002500,"New York City, USA",Hotel,8000,27.0,Female,American
+Jose Perez,"Rio de Janeiro, Brazil_Hostel",25002000,"Rio de Janeiro, Brazil",Hostel,2500,37.0,Male,Brazilian
+Emma Wilson,"Vancouver, Canada_Hotel",50003000,"Vancouver, Canada",Hotel,5000,29.0,Female,Canadian
+Ryan Chen,"Bangkok, Thailand_Hostel",20001000,"Bangkok, Thailand",Hostel,$400 ,34.0,Male,Chinese
+Ryan Chen,"Bangkok, Thailand_Hostel",20001000,"Bangkok, Thailand",Hostel,2000,34.0,Male,Chinese
+Sofia Rodriguez,"Barcelona, Spain_Airbnb",60002500,"Barcelona, Spain",Airbnb,800,25.0,Female,Spanish
+Sofia Rodriguez,"Barcelona, Spain_Airbnb",60002500,"Barcelona, Spain",Airbnb,$700 ,25.0,Female,Spanish
+Sofia Rodriguez,"Barcelona, Spain_Airbnb",60002500,"Barcelona, Spain",Airbnb,6000,25.0,Female,Spanish
+William Brown,"Auckland, New Zealand_Hotel",70002500,"Auckland, New Zealand",Hotel,7000,39.0,Male,New Zealander

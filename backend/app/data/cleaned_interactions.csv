@@ -1,0 +1,140 @@
+user_id,item_id,interaction
+John Smith,"London, UK_Hotel",1200600
+Jane Doe,"Phuket, Thailand_Resort",800500
+David Lee,"Bali, Indonesia_Villa",1000700
+Sarah Johnson,"New York, USA_Hotel",20001000
+Kim Nguyen,"Tokyo, Japan_Airbnb",700200
+Michael Brown,"Paris, France_Hotel",1500800
+Emily Davis,"Sydney, Australia_Hotel",5001200
+Lucas Santos,"Rio de Janeiro, Brazil_Airbnb",900600
+Laura Janssen,"Amsterdam, Netherlands_Hotel",1200200
+Mohammed Ali,"Dubai, United Arab Emirates_Resort",2500800
+Ana Hernandez,"Cancun, Mexico_Hotel",1000500
+Carlos Garcia,"Barcelona, Spain_Airbnb",800100
+Lily Wong,"Honolulu, Hawaii_Resort",30001200
+Hans Mueller,"Berlin, Germany_Hotel",1400700
+Fatima Khouri,"Marrakech, Morocco_Riad",600400
+James MacKenzie,"Edinburgh, Scotland_Hotel",900150
+Sarah Johnson,Paris_Hotel,$900 $400 
+Michael Chang,Bali_Resort,"$1,500 $700 "
+Olivia Rodriguez,London_Hotel,"$1,200 $150 "
+Kenji Nakamura,Tokyo_Hotel,"$1,200 $800 "
+Emily Lee,New York_Airbnb,$600 $100 
+James Wilson,Sydney_Hotel,"$1,000 $600 "
+Sofia Russo,Rome_Airbnb,$700 $80 
+Raj Patel,Bangkok_Hostel,$400 $500 
+Lily Nguyen,Paris_Hotel,"$1,400 $100 "
+David Kim,Hawaii_Resort,"$2,000 $800 "
+Maria Garcia,Barcelona_Hotel,"$1,100 $150 "
+Alice Smith,Japan_Hotel,$800 $500 
+Bob Johnson,Thailand_Hostel,$200 $150 
+Charlie Lee,France_Airbnb,$600 $300 
+Emma Davis,Australia_Hotel,"$1,000 $500 "
+Olivia Martin,Brazil_Hostel,$150 $50 
+Harry Wilson,Greece_Airbnb,$400 $600 
+Sophia Lee,Egypt_Hotel,$700 $100 
+James Brown,Mexico_Airbnb,$500 $800 
+Mia Johnson,Italy_Hostel,$180 $120 
+William Davis,Spain_Hotel,$900 $400 
+Amelia Brown,Canada_Airbnb,$350 $75 
+Mia Johnson,"Paris, France_Hotel",1400600
+Adam Lee,"Sydney, Australia_Airbnb",800150
+Sarah Wong,"Tokyo, Japan_Hostel",500900
+John Smith,"Cancun, Mexico_Resort",2200800
+Maria Silva,"Rio de Janeiro, Brazil_Hotel",1200700
+Peter Brown,"London, UK_Airbnb",900100
+Emma Garcia,"Barcelona, Spain_Hostel",600600
+Michael Davis,"New York City, USA_Hotel",1500500
+Nina Patel,"Bangkok, Thailand_Airbnb",50050
+Kevin Kim,"Vancouver, Canada_Hostel",400150
+Laura van den Berg,"Amsterdam, Netherlands_Hotel",1100700
+Jennifer Nguyen,"Paris, France_Hotel","$1,200 $300 "
+David Kim,"Tokyo, Japan_Hostel",$500 $100 
+Rachel Lee,"Sydney, AUS_Airbnb",$900 $200 
+Jessica Wong,"New York, USA_Hotel","$1,400 $800 "
+Felipe Almeida,"Rio de Janeiro, Brazil_Airbnb",$800 $150 
+Nisa Patel,"Bangkok, Thailand_Hostel",$400 $50 
+Ben Smith,"London, UK_Hotel","$1,000 $200 "
+Laura Gomez,"Barcelona, Spain_Airbnb",$700 $250 
+Park Min Woo,"Seoul, South Korea_Hostel",$500 $20 
+Michael Chen,"Los Angeles, USA_Hotel","$1,200 $300 "
+Sofia Rossi,"Rome, Italy_Airbnb",$800 $100 
+Rachel Sanders,Paris_Hotel,1200800
+Kenji Nakamura,Tokyo_Hostel,400300
+Emily Watson,Cape Town_Vacation rental,800200
+David Lee,Sydney_Hotel,15001200
+Ana Rodriguez,Barcelona_Vacation rental,900700
+Tom Wilson,Bali_Resort,22001000
+Olivia Green,Paris_Hotel,1100200
+James Chen,New York_Vacation rental,1000800
+Lila Patel,Bangkok_Hostel,300700
+Marco Rossi,Rome_Hotel,1300100
+Sarah Brown,Bali_Resort,18001000
+,nan_nan,
+Sarah Lee,"Bali, Indonesia_Resort",500 USD800 USD
+Alex Kim,"Tokyo, Japan_Hotel",1000 USD200 USD
+Maria Hernandez,"Cancun, Mexico_Resort",800 USD500 USD
+John Smith,"Paris, France_Hotel",1200 USD700 USD
+Mark Johnson,"Cape Town, SA_Guesthouse",400 USD300 USD
+Amanda Chen,"Bali, Indonesia_Resort",600 USD700 USD
+David Lee,"Sydney, Aus_Hotel",900 USD600 USD
+Nana Kwon,"Bangkok, Thai_Hotel",400 USD400 USD
+Tom Hanks,"New York, USA_Hotel",1500 USD1000 USD
+Emma Watson,"Phuket, Thai_Resort",700 USD800 USD
+James Kim,"Rome, Italy_Hotel",
+John Smith,Paris_Hotel,800 USD500 USD
+Sarah Lee,Tokyo_Airbnb,500 USD300 USD
+Maria Garcia,Bali_Resort,1200 USD700 USD
+David Lee,Sydney_Hotel,900 USD600 USD
+Emily Davis,New York_Airbnb,700 USD200 USD
+James Wilson,London_Hostel,300 USD400 USD
+Fatima Ahmed,Dubai_Hotel,1000 USD800 USD
+Liam Nguyen,Bangkok_Airbnb,400 USD100 USD
+Giulia Rossi,Rome_Hostel,200 USD350 USD
+Putra Wijaya,Bali_Villa,1500 USD300 USD
+Kim Min-ji,Seoul_Hotel,800 USD150 USD
+John Smith,Paris_Hotel,$500 $800 
+Emily Johnson,Tokyo_Airbnb,$400 $200 
+David Lee,Sydney_Hostel,"$200 $1,200 "
+Sarah Brown,London_Hotel,$600 $700 
+Michael Wong,New York_Airbnb,$800 $300 
+Jessica Chen,Rome_Hotel,$700 $900 
+Ken Tanaka,Bangkok_Hostel,$300 $100 
+Maria Garcia,Cape Town_Airbnb,"$500 $1,500 "
+Rodrigo Oliveira,Rio de Janeiro_Hotel,$900 $400 
+Olivia Kim,Bali_Villa,"$1,200 $1,000 "
+Robert Mueller,Amsterdam_Hotel,$600 $150 
+John Smith,Paris_Hotel,1000800
+Sarah Lee,Tokyo_Airbnb,800500
+Michael Wong,New York_Hotel,1200200
+Lisa Chen,Bali_Resort,15001200
+David Kim,Sydney_Hostel,300900
+Emily Wong,London_Hotel,900150
+Mark Tan,Phuket_Villa,2000700
+Emma Lee,Rome_Hotel,1100250
+George Chen,Santorini_Airbnb,1000150
+Sophia Kim,Dubai_Hotel,1500300
+Alex Ng,Phnom Penh_Hostel,200500
+Alice Smith,"Tokyo, Japan_Hotel",1000700
+Bob Johnson,"Paris, France_Hotel",1200500
+Cindy Chen,"Sydney, Aus_Airbnb",8001000
+David Lee,"Rome, Italy_Hotel",900400
+Emily Kim,"Bali, Indonesia_Hostel",500800
+Frank Li,"Cancun, Mexico_Hotel",1300600
+Gina Lee,"Athens, Greece_Airbnb",700900
+Henry Kim,"Tokyo, Japan_Hotel",1200700
+Isabella Chen,"Sydney, Aus_Airbnb",9001000
+Jack Smith,"Paris, France_Hostel",400700
+Katie Johnson,"Bali, Indonesia_Hotel",800800
+,nan_nan,
+John Doe,"Paris, France_Hotel",50002500
+Jane Smith,"Tokyo, Japan_Airbnb",70001500
+Michael Johnson,"Cape Town, South Africa_Hostel",30002000
+Sarah Lee,"Sydney, Australia_Hotel",60003000
+David Kim,"Rome, Italy_Airbnb",40001500
+Emily Davis,"New York City, USA_Hotel",80002500
+Jose Perez,"Rio de Janeiro, Brazil_Hostel",25002000
+Emma Wilson,"Vancouver, Canada_Hotel",50003000
+Ryan Chen,"Bangkok, Thailand_Hostel",20001000
+Sofia Rodriguez,"Barcelona, Spain_Airbnb",60002500
+William Brown,"Auckland, New Zealand_Hotel",70002500

@@ -1,0 +1,139 @@
+item_id,destination,accommodation_type,price
+"London, UK_Hotel","London, UK",Hotel,1200
+"Phuket, Thailand_Resort","Phuket, Thailand",Resort,800
+"Bali, Indonesia_Villa","Bali, Indonesia",Villa,1000
+"New York, USA_Hotel","New York, USA",Hotel,2000
+"Tokyo, Japan_Airbnb","Tokyo, Japan",Airbnb,700
+"Paris, France_Hotel","Paris, France",Hotel,1500
+"Sydney, Australia_Hotel","Sydney, Australia",Hotel,500
+"Rio de Janeiro, Brazil_Airbnb","Rio de Janeiro, Brazil",Airbnb,900
+"Amsterdam, Netherlands_Hotel","Amsterdam, Netherlands",Hotel,1200
+"Dubai, United Arab Emirates_Resort","Dubai, United Arab Emirates",Resort,2500
+"Cancun, Mexico_Hotel","Cancun, Mexico",Hotel,1000
+"Barcelona, Spain_Airbnb","Barcelona, Spain",Airbnb,800
+"Honolulu, Hawaii_Resort","Honolulu, Hawaii",Resort,3000
+"Berlin, Germany_Hotel","Berlin, Germany",Hotel,1400
+"Marrakech, Morocco_Riad","Marrakech, Morocco",Riad,600
+"Edinburgh, Scotland_Hotel","Edinburgh, Scotland",Hotel,900
+Paris_Hotel,Paris,Hotel,$900 
+Bali_Resort,Bali,Resort,"$1,500 "
+London_Hotel,London,Hotel,"$1,200 "
+Tokyo_Hotel,Tokyo,Hotel,"$1,200 "
+New York_Airbnb,New York,Airbnb,$600 
+Sydney_Hotel,Sydney,Hotel,"$1,000 "
+Rome_Airbnb,Rome,Airbnb,$700 
+Bangkok_Hostel,Bangkok,Hostel,$400 
+Paris_Hotel,Paris,Hotel,"$1,400 "
+Hawaii_Resort,Hawaii,Resort,"$2,000 "
+Barcelona_Hotel,Barcelona,Hotel,"$1,100 "
+Japan_Hotel,Japan,Hotel,$800 
+Thailand_Hostel,Thailand,Hostel,$200 
+France_Airbnb,France,Airbnb,$600 
+Australia_Hotel,Australia,Hotel,"$1,000 "
+Brazil_Hostel,Brazil,Hostel,$150 
+Greece_Airbnb,Greece,Airbnb,$400 
+Egypt_Hotel,Egypt,Hotel,$700 
+Mexico_Airbnb,Mexico,Airbnb,$500 
+Italy_Hostel,Italy,Hostel,$180 
+Spain_Hotel,Spain,Hotel,$900 
+Canada_Airbnb,Canada,Airbnb,$350 
+"Paris, France_Hotel","Paris, France",Hotel,1400
+"Sydney, Australia_Airbnb","Sydney, Australia",Airbnb,800
+"Tokyo, Japan_Hostel","Tokyo, Japan",Hostel,500
+"Cancun, Mexico_Resort","Cancun, Mexico",Resort,2200
+"Rio de Janeiro, Brazil_Hotel","Rio de Janeiro, Brazil",Hotel,1200
+"London, UK_Airbnb","London, UK",Airbnb,900
+"Barcelona, Spain_Hostel","Barcelona, Spain",Hostel,600
+"New York City, USA_Hotel","New York City, USA",Hotel,1500
+"Bangkok, Thailand_Airbnb","Bangkok, Thailand",Airbnb,500
+"Vancouver, Canada_Hostel","Vancouver, Canada",Hostel,400
+"Amsterdam, Netherlands_Hotel","Amsterdam, Netherlands",Hotel,1100
+"Paris, France_Hotel","Paris, France",Hotel,"$1,200 "
+"Tokyo, Japan_Hostel","Tokyo, Japan",Hostel,$500 
+"Sydney, AUS_Airbnb","Sydney, AUS",Airbnb,$900 
+"New York, USA_Hotel","New York, USA",Hotel,"$1,400 "
+"Rio de Janeiro, Brazil_Airbnb","Rio de Janeiro, Brazil",Airbnb,$800 
+"Bangkok, Thailand_Hostel","Bangkok, Thailand",Hostel,$400 
+"London, UK_Hotel","London, UK",Hotel,"$1,000 "
+"Barcelona, Spain_Airbnb","Barcelona, Spain",Airbnb,$700 
+"Seoul, South Korea_Hostel","Seoul, South Korea",Hostel,$500 
+"Los Angeles, USA_Hotel","Los Angeles, USA",Hotel,"$1,200 "
+"Rome, Italy_Airbnb","Rome, Italy",Airbnb,$800 
+Paris_Hotel,Paris,Hotel,1200
+Tokyo_Hostel,Tokyo,Hostel,400
+Cape Town_Vacation rental,Cape Town,Vacation rental,800
+Sydney_Hotel,Sydney,Hotel,1500
+Barcelona_Vacation rental,Barcelona,Vacation rental,900
+Bali_Resort,Bali,Resort,2200
+Paris_Hotel,Paris,Hotel,1100
+New York_Vacation rental,New York,Vacation rental,1000
+Bangkok_Hostel,Bangkok,Hostel,300
+Rome_Hotel,Rome,Hotel,1300
+Bali_Resort,Bali,Resort,1800
+nan_nan,,,
+"Bali, Indonesia_Resort","Bali, Indonesia",Resort,500 USD
+"Tokyo, Japan_Hotel","Tokyo, Japan",Hotel,1000 USD
+"Cancun, Mexico_Resort","Cancun, Mexico",Resort,800 USD
+"Paris, France_Hotel","Paris, France",Hotel,1200 USD
+"Cape Town, SA_Guesthouse","Cape Town, SA",Guesthouse,400 USD
+"Bali, Indonesia_Resort","Bali, Indonesia",Resort,600 USD
+"Sydney, Aus_Hotel","Sydney, Aus",Hotel,900 USD
+"Bangkok, Thai_Hotel","Bangkok, Thai",Hotel,400 USD
+"New York, USA_Hotel","New York, USA",Hotel,1500 USD
+"Phuket, Thai_Resort","Phuket, Thai",Resort,700 USD
+"Rome, Italy_Hotel","Rome, Italy",Hotel,100
+Paris_Hotel,Paris,Hotel,800 USD
+Tokyo_Airbnb,Tokyo,Airbnb,500 USD
+Bali_Resort,Bali,Resort,1200 USD
+Sydney_Hotel,Sydney,Hotel,900 USD
+New York_Airbnb,New York,Airbnb,700 USD
+London_Hostel,London,Hostel,300 USD
+Dubai_Hotel,Dubai,Hotel,1000 USD
+Bangkok_Airbnb,Bangkok,Airbnb,400 USD
+Rome_Hostel,Rome,Hostel,200 USD
+Bali_Villa,Bali,Villa,1500 USD
+Seoul_Hotel,Seoul,Hotel,800 USD
+Paris_Hotel,Paris,Hotel,$500 
+Tokyo_Airbnb,Tokyo,Airbnb,$400 
+Sydney_Hostel,Sydney,Hostel,$200 
+London_Hotel,London,Hotel,$600 
+New York_Airbnb,New York,Airbnb,$800 
+Rome_Hotel,Rome,Hotel,$700 
+Bangkok_Hostel,Bangkok,Hostel,$300 
+Cape Town_Airbnb,Cape Town,Airbnb,$500 
+Rio de Janeiro_Hotel,Rio de Janeiro,Hotel,$900 
+Bali_Villa,Bali,Villa,"$1,200 "
+Amsterdam_Hotel,Amsterdam,Hotel,$600 
+Paris_Hotel,Paris,Hotel,1000
+Tokyo_Airbnb,Tokyo,Airbnb,800
+New York_Hotel,New York,Hotel,1200
+Bali_Resort,Bali,Resort,1500
+Sydney_Hostel,Sydney,Hostel,300
+London_Hotel,London,Hotel,900
+Phuket_Villa,Phuket,Villa,2000
+Rome_Hotel,Rome,Hotel,1100
+Santorini_Airbnb,Santorini,Airbnb,1000
+Dubai_Hotel,Dubai,Hotel,1500
+Phnom Penh_Hostel,Phnom Penh,Hostel,200
+"Tokyo, Japan_Hotel","Tokyo, Japan",Hotel,1000
+"Paris, France_Hotel","Paris, France",Hotel,1200
+"Sydney, Aus_Airbnb","Sydney, Aus",Airbnb,800
+"Rome, Italy_Hotel","Rome, Italy",Hotel,900
+"Bali, Indonesia_Hostel","Bali, Indonesia",Hostel,500
+"Cancun, Mexico_Hotel","Cancun, Mexico",Hotel,1300
+"Athens, Greece_Airbnb","Athens, Greece",Airbnb,700
+"Tokyo, Japan_Hotel","Tokyo, Japan",Hotel,1200
+"Sydney, Aus_Airbnb","Sydney, Aus",Airbnb,900
+"Paris, France_Hostel","Paris, France",Hostel,400
+"Bali, Indonesia_Hotel","Bali, Indonesia",Hotel,800
+"Paris, France_Hotel","Paris, France",Hotel,5000
+"Tokyo, Japan_Airbnb","Tokyo, Japan",Airbnb,7000
+"Cape Town, South Africa_Hostel","Cape Town, South Africa",Hostel,3000
+"Sydney, Australia_Hotel","Sydney, Australia",Hotel,6000
+"Rome, Italy_Airbnb","Rome, Italy",Airbnb,4000
+"New York City, USA_Hotel","New York City, USA",Hotel,8000
+"Rio de Janeiro, Brazil_Hostel","Rio de Janeiro, Brazil",Hostel,2500
+"Vancouver, Canada_Hotel","Vancouver, Canada",Hotel,5000
+"Bangkok, Thailand_Hostel","Bangkok, Thailand",Hostel,2000
+"Barcelona, Spain_Airbnb","Barcelona, Spain",Airbnb,6000
+"Auckland, New Zealand_Hotel","Auckland, New Zealand",Hotel,7000
