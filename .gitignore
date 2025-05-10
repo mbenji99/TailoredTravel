@@ -1,0 +1,60 @@
+# Node.js / Vite (frontend)
+node_modules/
+dist/
+.vite/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env*
+*.venv/
+.venv/
+venv/
+pip-log.txt
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python cache and compiled
+*.egg-info/
+.eggs/
+build/
+develop-eggs/
+dist/
+
+# Jupyter Notebooks (if any)
+.ipynb_checkpoints/
+
+# Local testing / environment configs
+*.sqlite3
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Misc
+*.bak
+
+# Large binary/model/dataset files
+*.dll
+*.pyd
+*.so
+*.csv
+*.csv.gz
+
+# Explicitly ignored files that caused issues
+backend/app/data/Cleaned_Travel_Dataset_ModelReady.csv.gz
+venv/Lib/site-packages/clang/native/libclang.dll
+venv/Lib/site-packages/xgboost/lib/xgboost.dll
+venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd
