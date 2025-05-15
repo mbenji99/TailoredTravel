@@ -1,63 +1,57 @@
 import pandas as pd
-import re
-import pickle
 import os
+import pickle
 from surprise import SVD, Dataset, Reader
 from surprise.model_selection import train_test_split
 from surprise import accuracy
 
+# ---------- CONFIG ----------
 
-# ---------- STEP 1: Load and Clean Data ----------
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+DATA_PATH = os.path.join(BASE_DIR, "data", "cleaned_ratings_data.csv")
+MODEL_DIR = os.path.join(BASE_DIR, "models")
+MODEL_PATH = os.path.join(MODEL_DIR, "svd_model.pkl")
 
-def extract_numeric_rating(val):
-    if pd.isna(val):
-        return None
+# ---------- STEP 1: Load Preprocessed Ratings Data ----------
 
-    val = str(val).replace(",", "").replace("USD", "").replace("$", "").strip()
-    numbers = [int(n) for n in re.findall(r'\d+', val)]
+print("Loading dataset...")
+df = pd.read_csv(DATA_PATH)
 
-    if not numbers:
-        return None
-    elif len(numbers) == 1:
-        return numbers[0]
-    else:
-        return sum(numbers) / len(numbers)
+# Check required columns
+required_cols = {"user_id", "item_id", "rating"}
+if not required_cols.issubset(df.columns):
+    raise ValueError(f"❌ Missing required columns. Found columns: {list(df.columns)}")
 
-# Load and preprocess interaction data
-interactions_df = pd.read_csv("app/data/cleaned_interactions.csv")
-interactions_df = interactions_df.rename(columns={"interaction": "rating"})
-interactions_df["rating"] = interactions_df["rating"].apply(extract_numeric_rating)
-interactions_df = interactions_df.dropna(subset=["rating"])
+# Optional: Clip ratings to ensure within 1–5 range
+df["rating"] = df["rating"].clip(lower=1.0, upper=5.0)
 
-# Normalize ratings to 1-5 scale
-min_rating = interactions_df["rating"].min()
-max_rating = interactions_df["rating"].max()
+# ---------- STEP 2: Prepare Data for Surprise ----------
 
-interactions_df["rating"] = interactions_df["rating"].apply(
-    lambda x: 1 + 4 * ((x - min_rating) / (max_rating - min_rating))
-)
-
-# ---------- STEP 2: Train SVD Model ----------
-
+print("Preparing data for training...")
 reader = Reader(rating_scale=(1, 5))
-data = Dataset.load_from_df(interactions_df[["user_id", "item_id", "rating"]], reader)
+data = Dataset.load_from_df(df[["user_id", "item_id", "rating"]], reader)
 trainset, testset = train_test_split(data, test_size=0.2, random_state=42)
 
+# ---------- STEP 3: Train SVD Collaborative Filtering Model ----------
+
+print("Training SVD collaborative filtering model...")
 model = SVD()
 model.fit(trainset)
 
-# ---------- STEP 3: Evaluate Model ----------
+# ---------- STEP 4: Evaluate Model ----------
 
+print("Evaluating model...")
 predictions = model.test(testset)
 rmse = accuracy.rmse(predictions)
 print(f"Test RMSE: {rmse:.4f}")
 
-# ---------- STEP 4: Save Model ----------
+# ---------- STEP 5: Save Trained Model ----------
 
-# Ensure the models directory exists
-os.makedirs("backend/app/models", exist_ok=True)
+print("Saving model...")
+os.makedirs(MODEL_DIR, exist_ok=True)
 
-with open("app/models/svd_model.pkl", "wb") as f:
+with open(MODEL_PATH, "wb") as f:
     pickle.dump(model, f)
 
-print("Model trained and saved successfully.")
+print("Collaborative Filtering model trained and saved successfully at:")
+print(f"   {MODEL_PATH}")

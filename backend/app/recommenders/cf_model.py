@@ -72,7 +72,6 @@ def train_cf(trips_df, test_size=0.2, random_state=42):
 # Load Saved Model
 def load_cf_model(model_path='models/cf_model.h5'):
     try:
-        # Build absolute path safely
         base_dir = os.path.dirname(os.path.abspath(__file__))
         root_dir = os.path.join(base_dir, '..')
         abs_path = os.path.abspath(os.path.join(root_dir, model_path))
@@ -84,10 +83,9 @@ def load_cf_model(model_path='models/cf_model.h5'):
         model = tf.keras.models.load_model(
             abs_path,
             custom_objects={'CollaborativeModel': CollaborativeModel},
-            compile=False  # prevents deserialization issues with 'mse'
+            compile=False  
         )
 
-        # If needed, compile it manually here
         model.compile(optimizer='adam', loss='mse')
 
         logger.info("Collaborative filtering model loaded and compiled successfully.")

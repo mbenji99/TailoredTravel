@@ -17,7 +17,7 @@ def extract_largest_price(value):
     # Remove any non-numeric characters except for the space and hyphen
     cleaned_value = re.sub(r'[^\d.\s-]', '', str(value)).strip()
     
-    # Check if there is a range (i.e., the '-' symbol is present)
+    # Check if there is a range 
     if '-' in cleaned_value:
         # Split the range and get the maximum value
         try:

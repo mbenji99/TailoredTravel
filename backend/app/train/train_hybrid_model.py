@@ -79,4 +79,4 @@ model_data = {
 with open('models/hybrid_model.pkl', 'wb') as f:
     pickle.dump(model_data, f)
 
-print("✅ Hybrid recommendation model trained and saved to ../models/hybrid_model.pkl")
+print("Hybrid recommendation model trained and saved to ../models/hybrid_model.pkl")

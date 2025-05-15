@@ -36,4 +36,4 @@ model.fit([user_ids, item_ids], ratings, epochs=5, batch_size=64, verbose=1)
 # Save model
 os.makedirs('../models', exist_ok=True)
 model.save('../models/cf_model.h5')
-print("✅ CF model trained and saved.")
+print("CF model trained and saved.")
